@@ -1,0 +1,1242 @@
+<?xml version="1.0"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for Windows (vers 25 January 2008), see www.w3.org" />
+<title></title>
+</head>
+<body>
+<div id="fulld">
+<div id="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id=
+"tblTop">
+<tr>
+<td width="1%" valign="top">
+<div style=
+"position:absolute; z-index:1; margin:32px 0px 0px 650px;"><a href=
+"http://lady.avto.ru" target="_blank"><img src=
+"http://www.avto.ru/img/lady_logo.gif" border="0" /></a></div>
+<a href="http://www.avto.ru" title=
+"Автомобильный информационный портал"><img src="/di/logo.jpg" id=
+"mstart" name="mstart" width="200" height="67" border=
+"0" /></a></td>
+<td width="90%" colspan="2" align="left" valign="top" class=
+"top_bord">
+<h1 class="avto">АВТО:</h1>
+<div class="top_menu"><nobr><a href=
+"http://cars.avto.ru/">купить</a> | <b><a href=
+"http://cars.avto.ru/search/">поиск</a></b> | <a href=
+"http://user.avto.ru/" style="color:#ff3333;"><b>продать</b></a> |
+<a href="http://cars.avto.ru/new/">новые</a> | <a href=
+"http://cars.avto.ru/used/">подержанные</a> | <a href=
+"http://www.avto.ru/company/">компании</a> | <a href=
+"http://catalog.avto.ru/">каталог</a> | <a href=
+"http://forum.avto.ru/">форум</a> | <a href=
+"http://www.avto.ru/info/">справочник</a></nobr></div>
+<div id="mainmenu" class="jqueryslidemenu">
+<ul>
+<li><a href="#">Новости<img src="/image/open.gif" class=
+"downarrowclass" /></a>
+<ul id="dvNews" name="dvNews"></ul>
+</li>
+<li><a href="#">Статьи<img src="/image/open.gif" class=
+"downarrowclass" /></a>
+<ul id="dvArticles" name="dvArticles"></ul>
+</li>
+<li><a href="http://cars.avto.ru/#">Автомобили<img src=
+"/image/open.gif" class="downarrowclass" /></a>
+<ul id="dvAuto" name="dvAuto"></ul>
+</li>
+<li><a href="http://www.avto.ru/articles/test-drive.html" style=
+"padding-right:14px" title="Тест-Драйвы">Тест-драйвы</a></li>
+<li><a href="#" title="Перейти к подразделам">Ещё<img src=
+"/image/open.gif" class="downarrowclass" /></a>
+<ul id="dvMore" name="dvMore"></ul>
+</li>
+</ul>
+</div>
+<div id="search">
+<form method="get" action="http://www.avto.ru/search/" style=
+"margin:0px; padding:0px;"><input type="text" name="text"
+maxlength="150" style="width:140px" />&#160;<input type="image"
+src="/image/loopa.jpg" title="Искать" /></form>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="center">
+<div id="leftcol">
+<div class="pics" style="padding-top:3px;">
+<p><a href="http://www.avto.ru/review/post_29938.html"><img border=
+"0" src=
+"http://www.avto.ru/foto/weektema/28.02.2011/weektema28022011170754.jpg"
+width="198" height="150" /></a></p>
+</div>
+<div id="corner-box">
+<div class="lo">&#160;</div>
+<div class="ro">&#160;</div>
+<div class="o_line"></div>
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"
+width="100%">
+<tr>
+<td>
+<div id="top_corn"><a href=
+"http://cars.avto.ru">Автомобили</a></div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://www.avto.ru/company"><strong>Каталог
+компаний</strong></a></div>
+</div>
+</div>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://catalog.avto.ru"><strong>Каталог авто</strong></a></div>
+</div>
+</div>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/new">Новые авто</a></div>
+</div>
+</div>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/used">Подержанные авто</a></div>
+</div>
+</div>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/crashed">Авто после аварии</a></div>
+</div>
+</div>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://qbuy.ru"><strong>Магазин</strong></a></div>
+</div>
+</div>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok">Доска объявлений</a></div>
+</div>
+</div>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/search">Поиск авто</a></div>
+</div>
+</div>
+<div class="block_ob_cars">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://user.avto.ru"><strong>Продать авто</strong></a></div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</div>
+<div class="ltw">&#160;</div>
+<div class="rtw">&#160;</div>
+<div class="w_line"></div>
+<div style="background-color: #fff"><iframe src=
+"/html/cars_left_11.htm" target="_blank" framespacing='0'
+frameborder='no' scrolling='no' width="195" height=
+"100"></iframe></div>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+<div style="height:3px;">&#160;</div>
+<div class="ltw">&#160;</div>
+<div class="rtw">&#160;</div>
+<div class="w_line"></div>
+<div style="background-color: #fff"><iframe src=
+"/html/cars_left_21.htm" target="_blank" framespacing='0'
+frameborder='no' scrolling='no' width="195" height=
+"100"></iframe></div>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+<div style="height:3px;">&#160;</div>
+<div class="ltw">&#160;</div>
+<div class="rtw">&#160;</div>
+<div class="w_line"></div>
+<div style="background-color: #fff"><iframe src=
+"/html/cars_left_31.htm" target="_blank" framespacing='0'
+frameborder='no' scrolling='no' width="195" height=
+"100"></iframe></div>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+<div style="height:3px;">&#160;</div>
+<div id="corner-box">
+<div class="lo">&#160;</div>
+<div class="ro">&#160;</div>
+<div class="o_line"></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"
+bgcolor="#FFFFFF">
+<tr>
+<td id="top_corn">Авто в автосалонах</td>
+</tr>
+<tr>
+<td align="left" valign="top" class="bg_left_obl">
+<div class="avt_salon"><a href=
+"http://cars.avto.ru/companycard/4383/p1/">Avtostok</a>&#160;<span class="pieces">(584)</span></div>
+<div class="avt_salon"><a href=
+"http://cars.avto.ru/companycard/3647/p1/">AVTERRA</a>&#160;<span class="pieces">(542)</span></div>
+<div class="avt_salon"><a href=
+"http://cars.avto.ru/companycard/4479/p1/">Автоцентр
+Ansher</a>&#160;<span class="pieces">(500)</span></div>
+<div class="avt_salon"><a href=
+"http://cars.avto.ru/companycard/4644/p1/">Привалов
+Моторс</a>&#160;<span class="pieces">(464)</span></div>
+<div class="avt_salon"><a href=
+"http://cars.avto.ru/companycard/3085/p1/">АвтоЦентр
+Вега</a>&#160;<span class="pieces">(345)</span></div>
+<div class="all_comments"><a href="http://cars.avto.ru/salons/">Все
+салоны</a>&#160;<img src="/image/str1.jpg" /></div>
+</td>
+</tr>
+</table>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</div>
+<div id="corner-box">
+<div class="lo">&#160;</div>
+<div class="ro">&#160;</div>
+<div class="o_line"></div>
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"
+width="100%">
+<tr>
+<td>
+<div id="top_corn"><a href="http://cars.avto.ru/komok">Авто
+барахолка</a></div>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" class="bg_left_obl">
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/1.html">Авто сигнализации</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/3.html">Автозвук</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/2.html">Тюнинг</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/4.html">З/ч для иномарок</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/5.html">З/ч для отечественных
+авто</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/8.html">Запчасти для
+грузовиков</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/6.html">Ремонт автомобилей</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/41.html">Работа</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/9.html">Гаражи</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/7.html">Страхование</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/34.html">Шины и Диски</a></div>
+</div>
+<div class="blocks_mark">
+<div class="bukvica"><a class="bukvica" href=
+"http://cars.avto.ru/komok/44.html">Услуги</a></div>
+</div>
+<div class="all_comments"><a href=
+"http://cars.avto.ru/komok/"><strong>добавить
+объявление</strong></a>&#160;<img src="/image/str1.jpg" /></div>
+</td>
+</tr>
+</table>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</div>
+<div id="corner-box">
+<div class="lo">&#160;</div>
+<div class="ro">&#160;</div>
+<div class="o_line"></div>
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"
+width="100%">
+<tr>
+<td>
+<div id="top_corn_markinfo"><b>Информация по
+<span>BMW</span></b></div>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" colspan="2" class="bg_left_obl">
+<div class="this_theme"><span class="time">25.02.11</span><a href=
+"http://www.avto.ru/review/post_29905.html">Петер Кроншнабель: «Я
+пришел продолжать»</a></div>
+<br />
+<span class="back2">С Петером Кроншнабелем мы уже беседовали на
+Московском автосалоне. Тогда он только осваивался на новом месте
+работы. А теперь новый глава BMW Group Russia рассказал порталу
+Avto.ru о достижениях компании за 2010 год.</span><br />
+<br />
+<div class="this_theme"><span class="time">24.02.11</span><a href=
+"http://www.avto.ru/review/post_29878.html">Угонщики переходят на
+«немцев»</a></div>
+<br />
+<span class="back2">Японские автомобили по-прежнему держатся в топе
+хит-парада по угонам автомобилей. Но в последнее время угонщики
+стали проявлять нездоровый интерес к немецкому автопрому, в
+частности, к внедорожникам марки BMW.</span><br />
+<br />
+<div class="this_theme"><span class="time">21.02.11</span><a href=
+"http://www.avto.ru/news/news_29825.html">BMW, угнанный в Питере у
+футболиста, нашелся в Псковской области</a></div>
+<br />
+<span class="back2">По предварительной версии, BMW X6 угнали под
+заказ для продажи в Европе: угонщики установили на машину литовские
+номера и похоже, знали, у кого именно ее похитили.</span><br />
+<br /></td>
+</tr>
+</table>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</div>
+<div class="pics">
+<p><a href="http://www.avto.ru/review/post_29945.html"><img border=
+"0" src=
+"http://www.avto.ru/foto/weektema/01.03.2011/weektema0103201192658.jpg"
+width="198" height="150" /></a></p>
+</div>
+<div id="corner-box">
+<div class="ltw">&#160;</div>
+<div class="rtw">&#160;</div>
+<div class="w_line"></div>
+<iframe src="/html/infocar_small.htm" frameborder="0" scrolling=
+"no" height="450" width="200px"></iframe>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</div>
+</div>
+<div id="rightcol">
+<div id="right">
+<div class="big_ban"></div>
+<div id="corner-box">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div id="bookmarkOBL1" class="lo">&#160;</div>
+<div id="bookmarkOBL1f" class="o_line_obl_l"></div>
+</td>
+<td class="border_lr">
+<div id="bookmarkOBL2" class="o_line_obl">&#160;</div>
+</td>
+<td>
+<div id="bookmarkOBL3" class="r_sero">&#160;</div>
+<div id="bookmarkOBL3f" class="o_line_obl_r"></div>
+</td>
+</tr>
+<tr>
+<td height="20px" align="center" valign="bottom" bgcolor="#FFFFFF">
+<div class="activ_corn" id="bookmark1" onclick=
+"subMenuBN(this, 1);return false"><a href="#">Марки</a></div>
+</td>
+<td height="20px" align="center" valign="bottom" bgcolor="#FFFFFF"
+class="border_lr">
+<div class="inactive_corn" id="bookmark2" onclick=
+"subMenuBN(this, 2);return false"><a href="#">Компании</a></div>
+</td>
+<td height="20px" align="center" valign="middle" bgcolor="#FFFFFF">
+<div class="inactive_corn" id="bookmark3" onclick=
+"subMenuBN(this, 3);return false"><a href="#">Сайты</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#FFFFFF">
+<div>
+<div class="inf">
+<div id="bookmark_blockOBL1" class="info_block2">
+<div class='padding_LR15'>
+<div class='teg'><a href='http://cars.avto.ru/acura/acura.html'
+class='teg0'>Acura</a> &#160;<a href=
+'http://cars.avto.ru/alfa_romeo/alfa_romeo.html' class='teg0'>Alfa
+Romeo</a> &#160;<a href='http://cars.avto.ru/audi/audi.html' class=
+'teg4'>Audi</a> &#160;<a href='http://cars.avto.ru/bmw/bmw.html'
+class='teg4'>BMW</a> &#160;<a href=
+'http://cars.avto.ru/cadillac/cadillac.html' class=
+'teg0'>Cadillac</a> &#160;<a href=
+'http://cars.avto.ru/chery/chery.html' class='teg0'>Chery</a>
+&#160;<a href='http://cars.avto.ru/chevrolet/chevrolet.html' class=
+'teg3'>Chevrolet</a> &#160;<a href=
+'http://cars.avto.ru/chrysler/chrysler.html' class=
+'teg0'>Chrysler</a> &#160;<a href=
+'http://cars.avto.ru/citroen/citroen.html' class='teg1'>Citroen</a>
+&#160;<a href='http://cars.avto.ru/daewoo/daewoo.html' class=
+'teg2'>Daewoo</a> &#160;<a href=
+'http://cars.avto.ru/dodge/dodge.html' class='teg0'>Dodge</a>
+&#160;<a href='http://cars.avto.ru/fiat/fiat.html' class=
+'teg0'>Fiat</a> &#160;<a href='http://cars.avto.ru/ford/ford.html'
+class='teg7'>Ford</a> &#160;<a href=
+'http://cars.avto.ru/great_wall/great_wall.html' class='teg0'>Great
+Wall</a> &#160;<a href='http://cars.avto.ru/honda/honda.html'
+class='teg3'>Honda</a> &#160;<a href=
+'http://cars.avto.ru/hummer/hummer.html' class='teg0'>Hummer</a>
+&#160;<a href='http://cars.avto.ru/hyundai/hyundai.html' class=
+'teg5'>Hyundai</a> &#160;<a href=
+'http://cars.avto.ru/infiniti/infiniti.html' class=
+'teg0'>Infiniti</a> &#160;<a href=
+'http://cars.avto.ru/isuzu/isuzu.html' class='teg0'>Isuzu</a>
+&#160;<a href='http://cars.avto.ru/jaguar/jaguar.html' class=
+'teg0'>Jaguar</a> &#160;<a href=
+'http://cars.avto.ru/jeep/jeep.html' class='teg0'>Jeep</a>
+&#160;<a href='http://cars.avto.ru/kia/kia.html' class=
+'teg3'>Kia</a> &#160;<a href=
+'http://cars.avto.ru/land_rover/land_rover.html' class='teg0'>Land
+Rover</a> &#160;<a href='http://cars.avto.ru/lexus/lexus.html'
+class='teg1'>Lexus</a> &#160;<a href=
+'http://cars.avto.ru/mazda/mazda.html' class='teg4'>Mazda</a>
+&#160;<a href='http://cars.avto.ru/mercedes/mercedes.html' class=
+'teg5'>Mercedes</a> &#160;<a href=
+'http://cars.avto.ru/mitsubishi/mitsubishi.html' class=
+'teg5'>Mitsubishi</a> &#160;<a href=
+'http://cars.avto.ru/nissan/nissan.html' class='teg6'>Nissan</a>
+&#160;<a href='http://cars.avto.ru/opel/opel.html' class=
+'teg4'>Opel</a> &#160;<a href=
+'http://cars.avto.ru/peugeot/peugeot.html' class='teg2'>Peugeot</a>
+&#160;<a href='http://cars.avto.ru/pontiac/pontiac.html' class=
+'teg0'>Pontiac</a> &#160;<a href=
+'http://cars.avto.ru/porsche/porsche.html' class='teg0'>Porsche</a>
+&#160;<a href='http://cars.avto.ru/renault/renault.html' class=
+'teg2'>Renault</a> &#160;<a href=
+'http://cars.avto.ru/rover/rover.html' class='teg0'>Rover</a>
+&#160;<a href='http://cars.avto.ru/saab/saab.html' class=
+'teg0'>Saab</a> &#160;<a href='http://cars.avto.ru/seat/seat.html'
+class='teg0'>Seat</a> &#160;<a href=
+'http://cars.avto.ru/skoda/skoda.html' class='teg1'>Skoda</a>
+&#160;<a href='http://cars.avto.ru/ssangyong/ssangyong.html' class=
+'teg0'>SsangYong</a> &#160;<a href=
+'http://cars.avto.ru/subaru/subaru.html' class='teg1'>Subaru</a>
+&#160;<a href='http://cars.avto.ru/suzuki/suzuki.html' class=
+'teg1'>Suzuki</a> &#160;<a href=
+'http://cars.avto.ru/toyota/toyota.html' class='teg8'>Toyota</a>
+&#160;<a href='http://cars.avto.ru/volkswagen/volkswagen.html'
+class='teg6'>Volkswagen</a> &#160;<a href=
+'http://cars.avto.ru/volvo/volvo.html' class='teg1'>Volvo</a>
+&#160;<a href='http://cars.avto.ru/vaz/vaz.html' class=
+'teg16'>ВАЗ</a> &#160;<a href='http://cars.avto.ru/gaz/gaz.html'
+class='teg4'>ГАЗ</a> &#160;<a href=
+'http://cars.avto.ru/zaz/zaz.html' class='teg0'>ЗАЗ</a>
+&#160;<a href='http://cars.avto.ru/zil/zil.html' class=
+'teg0'>ЗИЛ</a> &#160;<a href='http://cars.avto.ru/izh/izh.html'
+class='teg0'>ИЖ</a> &#160;<a href=
+'http://cars.avto.ru/moskvich/moskvich.html' class=
+'teg0'>Москвич</a> &#160;<a href='http://cars.avto.ru/uaz/uaz.html'
+class='teg0'>УАЗ</a> &#160;</div>
+</div>
+</div>
+<div id="bookmark_blockOBL2" class="info_block2">
+<div class='padding_LR15'>
+<div class='teg'><a href=
+'http://www.avto.ru/company/9_0_1_0_1.html' class=
+'teg5'>Автозаправки - Бензин</a> &#160;<a href=
+'http://www.avto.ru/company/10_0_1_0_1.html' class=
+'teg0'>Автозаправки - Газ</a> &#160;<a href=
+'http://www.avto.ru/company/11_0_1_0_1.html' class=
+'teg1'>Автомобильные мойки</a> &#160;<a href=
+'http://www.avto.ru/company/6_0_1_0_1.html' class=
+'teg5'>Автосалоны</a> &#160;<a href=
+'http://www.avto.ru/company/1_0_1_0_1.html' class=
+'teg13'>Автосервисы</a> &#160;<a href=
+'http://www.avto.ru/company/5_0_1_0_1.html' class=
+'teg0'>Автострахование</a> &#160;<a href=
+'http://www.avto.ru/company/3_0_1_0_1.html' class=
+'teg2'>Автошколы</a> &#160;<a href=
+'http://www.avto.ru/company/7_0_1_0_1.html' class='teg1'>Аренда
+авто</a> &#160;<a href='http://www.avto.ru/company/2_0_1_0_1.html'
+class='teg16'>Магазины запчастей</a> &#160;<a href=
+'http://www.avto.ru/company/8_0_1_0_1.html' class='teg10'>Услуги и
+Товары</a> &#160;<a href=
+'http://www.avto.ru/company/12_0_1_0_1.html' class='teg1'>Шины и
+диски</a> &#160;</div>
+</div>
+</div>
+<div id="bookmark_blockOBL3" class="info_block2">
+<div class='padding_LR15'>
+<div class='teg'><a href='http://top.avto.ru/rubric/3.html' class=
+'teg16'>Автозапчасти, аксессуары</a> &#160;<a href=
+'http://top.avto.ru/rubric/4.html' class='teg9'>Автоклубы</a>
+&#160;<a href='http://top.avto.ru/rubric/7.html' class=
+'teg3'>Автопресса</a> &#160;<a href=
+'http://top.avto.ru/rubric/6.html' class='teg1'>Автоспецтехника</a>
+&#160;<a href='http://top.avto.ru/rubric/8.html' class=
+'teg3'>Автострахование</a> &#160;<a href=
+'http://top.avto.ru/rubric/10.html' class='teg8'>Другое</a>
+&#160;<a href='http://top.avto.ru/rubric/5.html' class=
+'teg0'>Мотоциклы</a> &#160;<a href=
+'http://top.avto.ru/rubric/1.html' class='teg11'>Продажа
+автомобилей</a> &#160;<a href='http://top.avto.ru/rubric/2.html'
+class='teg11'>Техническое обслуживание</a> &#160;<a href=
+'http://top.avto.ru/rubric/9.html' class='teg8'>Универсальное</a>
+&#160;</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</div>
+<div class="big_ban"><iframe src="/bfr_cars_240_400_2.htm"
+frameborder="0" scrolling="0" width="240" height=
+"400"></iframe></div>
+<span id="LastArticles"></span>
+<div id="corner-box"><span id="LastArticles"></span>
+<div class="lo"><span id="LastArticles">&#160;</span></div>
+<div class="ro"><span id="LastArticles">&#160;</span></div>
+<div class="o_line"><span id="LastArticles"></span></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"
+bgcolor="#FFFFFF">
+<tr>
+<td id="top_corn">Последние статьи</td>
+</tr>
+<tr>
+<td>
+<div class="last_article" align="center"><a href=
+"http://www.avto.ru/review/post_30017.html"><img src=
+"http://www.avto.ru/foto/02.03.2011/fotoMin/1_69295.jpg" border="0"
+style="margin-bottom:-20px;" width="105" height="70" /></a><br />
+<a style="margin-top:-10px;" href=
+"http://www.avto.ru/review/post_30017.html">Зеленая поляна
+Женевы</a></div>
+<div class="last_article" align="center"><a href=
+"http://www.avto.ru/review/post_30013.html"><img src=
+"http://www.avto.ru/foto/02.03.2011/fotoMin/main_69292.jpg" border=
+"0" style="margin-bottom:-20px;" width="105" height=
+"70" /></a><br />
+<a style="margin-top:-10px;" href=
+"http://www.avto.ru/review/post_30013.html">Женева-2011: торжество
+разумного</a></div>
+<div class="last_article" align="center"><a href=
+"http://www.avto.ru/review/post_30007.html"><img src=
+"http://www.avto.ru/foto/02.03.2011/fotoMin/geneva20motor20show20models20003_69247.jpg"
+border="0" style="margin-bottom:-20px;" width="105" height=
+"70" /></a><br />
+<a style="margin-top:-10px;" href=
+"http://www.avto.ru/review/post_30007.html">Девушки Женевского
+автосалона-2011</a></div>
+<div class="last_article" align="center"><a href=
+"http://www.avto.ru/review/post_29978.html"><img src=
+"http://www.avto.ru/foto/01.03.2011/fotoMin/vision_69164.jpg"
+border="0" style="margin-bottom:-20px;" width="105" height=
+"70" /></a><br />
+<a style="margin-top:-10px;" href=
+"http://www.avto.ru/review/post_29978.html">Женева-2011: супер и
+спорт</a></div>
+<div class="last_article" align="center"><a href=
+"http://www.avto.ru/review/post_29977.html"><img src=
+"http://www.avto.ru/foto/01.03.2011/fotoMin/daewoo-matiz-2_69157.jpg"
+border="0" style="margin-bottom:-20px;" width="105" height=
+"70" /></a><br />
+<a style="margin-top:-10px;" href=
+"http://www.avto.ru/review/post_29977.html">Chevrolet вытеснила
+Daewoo</a></div>
+</td>
+</tr>
+</table>
+<div class="lbw"><span id="LastArticles">&#160;</span></div>
+<div class="rbw"><span id="LastArticles">&#160;</span></div>
+<div class="w_line"><span id="LastArticles"></span></div>
+</div>
+</div>
+<div id="centcol">
+<div class="ltw">&#160;</div>
+<div class="rtw">&#160;</div>
+<div class="w_line"></div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"
+bgcolor="#FFFFFF">
+<tr>
+<td><span class="block2"><a href="http://www.avto.ru">Авто.Ру</a>
+&gt; <a href="/">Авторынок</a> &gt; <a href='/bmw/bmw.html'>BMW</a>
+&gt; <b><a href='/bmw/318/1/'>BMW 318</a></b> &gt;
+485&#160;РУБ</span></td>
+</tr>
+</table>
+<div class="lbw" style="margin-bottom:7px;">&#160;</div>
+<div class="rbw" style="margin-bottom:7px;">&#160;</div>
+<div class="w_line" style="margin-bottom:7px;"></div>
+<div class="ltw">&#160;</div>
+<div class="rtw">&#160;</div>
+<div class="w_line"></div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"
+bgcolor="#FFFFFF">
+<tr>
+<td>
+<div style="font-family: Tahoma;font-size: 12px;"></div>
+<div class="top_info_name" style="padding-left:5px;">Объявления о
+продаже автомобилей</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="5"
+bgcolor="#FFFFFF">
+<tr height="62">
+<td>
+<div class="links_in_selected"><a href="/">Все марки
+автомобилей</a><br />
+<a href="http://catalog.avto.ru/bmw/bmw.html">Каталог BMW</a><br />
+<a href="/bmw/bmw.html">Модели BMW</a><br />
+<a href=
+"http://wallpapers.avto.ru/car/bmw/wallpaper-19-1.html">Обои
+BMW</a></div>
+<h2 style=
+"height:45px; padding-left:100px; padding-top:10px; background-image: url('/logotypes/bmw_td.gif'); background-position:top left-100px; background-repeat:no-repeat;">
+BMW 318</h2>
+</td>
+</tr>
+<tr height="75">
+<td valign="top" class="topbord_search">
+<div class="links_in_selected" style="line-height:22px"><a href=
+"/bmw/318/1/">Все объявления BMW 318</a><br />
+<form name="aspnetForm" method="post" action=
+"item.html?idAvtoMarket=89116&amp;mark=bmw&amp;model=318&amp;RawUrl=%2fbmw%2f318%2fbmw-89116-20101208.html&amp;&amp;dtdate=20101208"
+id="aspnetForm" style="margin:0px; padding:0px;"><input type=
+"hidden" name="__VIEWSTATE" id="__VIEWSTATE" value=
+"/wEPDwUKLTE4NjYzNDA2OWRkXY3871Y8CqYXPuYfu7jeP4h2sv8=" />
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE"
+value=
+"-o58BmfeHZIsmK2XD9aY9D6o_mHDwjdCNKgZ3fBzlhP-Bp_fVshqIF4kWpn3Ej6w_7il7VAjWLHBDIKHsKp0-o32Fas1" />
+ <input type="hidden" name="__EVENTVALIDATION" id=
+"__EVENTVALIDATION" value=
+"/wEWAgK2qOM7Aoeo7cUFF2P9jq21aem0HHIuBtzYIJDaV74=" /> <img src=
+"/image/print.gif" align="absbottom" style=
+"padding-top:3px" />&#160;&#160;<a id="AvtoMarketItem_lbPrintVer"
+href=
+"javascript:WebForm_DoPostBackWithOptions(new%20WebForm_PostBackOptions(&quot;AvtoMarketItem$lbPrintVer&quot;,%20&quot;&quot;,%20false,%20&quot;&quot;,%20&quot;/bmw/318/pver_c7936e93-b418-493f-92a3-521b9d379dc4.html&quot;,%20false,%20true))">Версия
+для печати</a></form>
+</div>
+<div>
+<h2 class="nCar_foCard">BMW 318 2002 подержанный</h2>
+<br />
+<span class="price_foCar">485&#160;РУБ</span><br clear="all" />
+<div class="links_in_selected"></div>
+</div>
+</td>
+</tr>
+</table>
+<div id="itemPhotoD" style="overflow-x:auto; width:100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="5"
+bgcolor="#FFFFFF">
+<tr height="10">
+<td valign="top"><span class="subheading_foCar">Основные
+характеристики:</span><br />
+<div style="width:195px"></div>
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr height="10">
+<td class="txt_ofCard">Год выпуска</td>
+<td class="txt_ofCardB">2002</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Пробег, км:</td>
+<td class="txt_ofCardB">120000</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Тип кузова:</td>
+<td class="txt_ofCardB">Седан</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Модификация:</td>
+<td class="txt_ofCardB">318i(143Hp)</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Цвет:</td>
+<td class="txt_ofCardB">
+<div class="color" title="Зеленый металлик" style=
+" text-align:center;background-color:#009900;">ме</div>
+</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Тип двигателя:</td>
+<td class="txt_ofCardB">Бензин инжектор</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Объём, см<sup>3</sup>/л.с.:</td>
+<td class="txt_ofCardB">1995/143</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">КПП:</td>
+<td class="txt_ofCardB">Автомат</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Привод:</td>
+<td class="txt_ofCardB">Задний</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Руль:</td>
+<td class="txt_ofCardB">Левый</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Таможня:</td>
+<td class="txt_ofCardB">Растаможен</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Состояние:</td>
+<td class="txt_ofCardB">Отличное</td>
+</tr>
+<tr height="10">
+<td class="txt_ofCard">Дата<br />
+публикации:</td>
+<td class="txt_ofCardB">08.12.2010</td>
+</tr>
+</table>
+<br />
+<br /></td>
+<td>
+<div id="AvtoMarketItem_DivBigImg"><a href=
+"javascript:newWin2('/nItem_ca080085-8bf5-499e-8541-2e9fef388c0c.html','ca0800858bf5499e85412e9fef388c0c');">
+<img src=
+"/foto_cars/bmw/318/bmw_318_c7936e93_b418_493f_92a3_521b9d379dc4_3_b.jpg"
+id="AvtoMarketItem_imgBig" width="300" height="158" border="0" alt=
+"Автомобиль BMW 318" /></a></div>
+<table cellpadding="0" cellspacing="1">
+<tr>
+<td>
+<div id="AvtoMarketItem_DivImg1"><a href=
+"/bmw/318/bmw-89116-20101208.html?i=1" id=
+"AvtoMarketItem_HrefImg1"><img src=
+"/foto_cars/bmw/318/bmw_318_c7936e93_b418_493f_92a3_521b9d379dc4_1_s.jpg"
+id="AvtoMarketItem_img1" class="smail_photo" border="0" width="100"
+height="67" alt="Автомобиль BMW 318" /></a></div>
+</td>
+<td>
+<div id="AvtoMarketItem_DivImg2"><a href=
+"/bmw/318/bmw-89116-20101208.html?i=2" id=
+"AvtoMarketItem_HrefImg2"><img src=
+"/foto_cars/bmw/318/bmw_318_c7936e93_b418_493f_92a3_521b9d379dc4_2_s.jpg"
+id="AvtoMarketItem_img2" class="smail_photo" border="0" width="100"
+height="67" alt="Автомобиль BMW 318" /></a></div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="AvtoMarketItem_DivImg3"><a href=
+"/bmw/318/bmw-89116-20101208.html?i=4" id=
+"AvtoMarketItem_HrefImg3"><img src=
+"/foto_cars/bmw/318/bmw_318_c7936e93_b418_493f_92a3_521b9d379dc4_4_s.jpg"
+id="AvtoMarketItem_img3" class="smail_photo" border="0" width="100"
+height="100" alt="Автомобиль BMW 318" /></a></div>
+</td>
+<td>
+<div id="AvtoMarketItem_DivImg4"><a href=
+"/bmw/318/bmw-89116-20101208.html?i=5" id=
+"AvtoMarketItem_HrefImg4"><img src=
+"/foto_cars/bmw/318/bmw_318_c7936e93_b418_493f_92a3_521b9d379dc4_5_s.jpg"
+id="AvtoMarketItem_img4" class="smail_photo" border="0" width="100"
+height="67" alt="Автомобиль BMW 318" /></a></div>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"
+class="text" bgcolor="#FFFFFF" style="padding:8px;">
+<tr>
+<td class="topbord_search" valign="top" colspan="2">
+<div class="subheading_foCar" style="padding-bottom: 10px;">
+Комплектация автомобиля BMW 318</div>
+</td>
+</tr>
+<tr>
+<td valign="top"><img src="/image/01security.gif" align="left" />
+<div class="txt_ofCardPad">&#160;Безопасность</div>
+<div class="txt_ofPrintCard">ABS<br />
+ESP<br />
+Подушка безопасности водителя<br />
+Подушка безопасности пассажира<br />
+Подушки безопасности боковые<br />
+Подушки безопасности оконные<br /></div>
+<img src="/image/02comfort.gif" align="left" />
+<div class="txt_ofCardPad">&#160;Комфорт</div>
+<div class="txt_ofPrintCard">ГУР<br />
+Дистанционное отпирание багажника<br />
+Климат-контроль<br />
+Кондиционер<br />
+Подлокотник передний<br />
+Подогрев зеркал<br />
+Подогрев сидений (Всех)<br />
+Регулируемая рулевая колонка<br /></div>
+<img src="/image/03safety.gif" align="left" />
+<div class="txt_ofCardPad">&#160;Противоугонное</div>
+<div class="txt_ofPrintCard">Сигнализация<br /></div>
+</td>
+<td valign="top"><img src="/image/04music.gif" align="left" />
+<div class="txt_ofCardPad">&#160;Музыка</div>
+<div class="txt_ofPrintCard">Магнитола (MP3)<br /></div>
+<img src="/image/05privod.gif" align="left" />
+<div class="txt_ofCardPad">&#160;Электропривод</div>
+<div class="txt_ofPrintCard">Корректор фар<br />
+Электрозеркала<br />
+Электростекла (Все)<br /></div>
+<img src="/image/06other.gif" align="left" />
+<div class="txt_ofCardPad">&#160;Другие опции и оборудование</div>
+<div class="txt_ofPrintCard">Бортовой компьютер<br />
+Ксеноновые фары (Ксенон)<br />
+Легкосплавные диски (Литые)<br />
+Обогрев заднего стекла<br />
+Омыватель фар<br />
+Парковочные радары<br />
+Противотуманные фары<br />
+Тонировка<br />
+Центральный замок<br /></div>
+</td>
+</tr>
+</table>
+<table id="AvtoMarketItem_trAddInfo" width="100%" border="0"
+cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
+<tr>
+<td valign="top" class="topbord_search"><span class=
+"subheading_foCar">Дополнительная информация:</span><br />
+<div class="txt_ofCard2">Машина обслуживалась у официального
+дилера. Недавно была произведена полная замена подвески, а также
+замена тормозных дисков, сайлент блоков. Музыка mp3 с usb разъемом.
+Машина в идеальном состоянии. Возможен торг</div>
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="5"
+bgcolor="#FFFFFF">
+<tr height="20">
+<td colspan="2" valign="top" class="topbord_search" width="50%">
+<span class="subheading_foCar">Контакты:</span></td>
+<td class="topbord_search" align="right" width="50%">&#160;
+<div class="txt" style="width:215px; text-align:right;"><a href=
+'/car/sankt-peterburg/bmw/318/1/used_All_All_price/'>Подержанные
+легковые автомобили BMW 318 в г. Санкт-Петербург</a></div>
+</td>
+</tr>
+<tr>
+<td width="16%"><span class="txt_ofCard">Страна:</span></td>
+<td colspan="2" width="84%"><span class="txt">Россия</span></td>
+</tr>
+<tr>
+<td width="16%"><span class="txt_ofCard">Город:</span></td>
+<td colspan="2"><span class="txt">Санкт-Петербург</span></td>
+</tr>
+<tr>
+<td width="16%"><span class="txt_ofCard">Контактное
+лицо:</span></td>
+<td colspan="2"><span class="txt">Максим</span></td>
+</tr>
+<tr id="AvtoMarketItem_trPhone">
+<td width="16%"><span class="txt_ofCard">Телефон:</span></td>
+<td class="txt">(911)-251-00-00<span id="AvtoMarketItem_spPhone"
+class="txt">, с 9 до 23</span></td>
+<td class="txt" align="right" width="50%">
+<table>
+<tr>
+<td>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</td>
+<td>
+<center><br /></center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr id="AvtoMarketItem_trEmail">
+<td width="16%"><span class="txt_ofCard">E-mail:</span></td>
+<td colspan="2"><span class="txt"><a href=
+"mailto:ham000021@bk.ru">ham000021@bk.ru</a></span></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="5"
+bgcolor="#FFFFFF">
+<tr>
+<td class="topbord_search"><span class="txt_ofCard">В случае
+недостоверной информации, <a href=
+"mailto:tech@corp.avto.ru?subject=89116-cars.avto.ru">отправьте</a>
+ссылку на это объявление администратору сайта.</span></td>
+</tr>
+</table>
+<div class="txt" style="padding: 5px;">Продажа автомобиля BMW 318
+2002 года с пробегом 120&#160;000 КМ. Бу авто BMW 318 с
+автоматической коробкой передач по цене 485&#160;РУБ.</div>
+</td>
+</tr>
+<tr>
+<td style="border-top:#f9d086 1px solid;">
+<!-- Яндекс.Директ --><iframe src="/banners/VongoBanner.aspx"
+target="_blank" width="100%" framespacing='0' frameborder='no'
+scrolling='no'></iframe></td>
+</tr>
+</table>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+<div style="height:7px;">&#160;</div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="lo">&#160;</div>
+<div class="ro">&#160;</div>
+<div class="o_line"></div>
+</td>
+<td style="font-size:3px;"></td>
+<td>
+<div class="lo">&#160;</div>
+<div class="ro">&#160;</div>
+<div class="o_line"></div>
+</td>
+</tr>
+<tr valign="top">
+<td bgcolor="#FFFFFF">
+<table width="100%" border="0" cellspacing="0" cellpadding="0"
+bgcolor="#FFFFFF">
+<tr>
+<td height="22" colspan="2" valign="bottom">
+<div id="top_corn">Главные новости</div>
+</td>
+</tr>
+<tr>
+<td width="10%" valign="top" class="r_block_img"><a href=
+"http://www.avto.ru/news/news_29969.html"><img src=
+"http://www.avto.ru/foto/01.03.2011/fotoMin/1jpg_69111.jpg" width=
+"105" height="70" alt=
+"Конкурс красоты AvtoLady завершен, впереди – награждение" style=
+"border:1px #a8a298 solid" /></a></td>
+<td width="90%" valign="top" style="padding-top:5px;">
+<div class="r_block_info"><a href=
+"http://www.avto.ru/news/news_29969.html">Конкурс красоты AvtoLady
+завершен, впереди – награждение</a></div>
+</td>
+</tr>
+<tr>
+<td width="10%" valign="top" class="r_block_img"><a href=
+"http://www.avto.ru/news/news_30004.html"><img src=
+"http://www.avto.ru/foto/02.03.2011/fotoMin/kruz_69242.jpg" width=
+"105" height="70" alt=
+"Chevrolet представил серийную версию хэтчбека Cruze" style=
+"border:1px #a8a298 solid" /></a></td>
+<td width="90%" valign="top" style="padding-top:5px;">
+<div class="r_block_info"><a href=
+"http://www.avto.ru/news/news_30004.html">Chevrolet представил
+серийную версию хэтчбека Cruze</a></div>
+</td>
+</tr>
+<tr>
+<td width="10%" valign="top" class="r_block_img"><a href=
+"http://www.avto.ru/news/news_29991.html"><img src=
+"http://www.avto.ru/foto/02.03.2011/fotoMin/infiniti_69190.jpg"
+width="105" height="70" alt=
+"Infiniti представила в Женеве концепт Etherea" style=
+"border:1px #a8a298 solid" /></a></td>
+<td width="90%" valign="top" style="padding-top:5px;">
+<div class="r_block_info"><a href=
+"http://www.avto.ru/news/news_29991.html">Infiniti представила в
+Женеве концепт Etherea</a></div>
+</td>
+</tr>
+<tr>
+<td width="10%" valign="top" class="r_block_img"><a href=
+"http://www.avto.ru/news/news_29987.html"><img src=
+"http://www.avto.ru/foto/01.03.2011/fotoMin/1_69186.jpg" width=
+"105" height="79" alt=
+"В России стартовала выдача новых водительских удостоверений"
+style="border:1px #a8a298 solid" /></a></td>
+<td width="90%" valign="top" style="padding-top:5px;">
+<div class="r_block_info"><a href=
+"http://www.avto.ru/news/news_29987.html">В России стартовала
+выдача новых водительских удостоверений</a></div>
+<div class="comment_fnews" style="margin-left: 10px;"><a href=
+"http://www.avto.ru/comments/news_29987.html">Комментарии:
+3</a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="font-size:7px;" width="7px">&#160;</td>
+<td bgcolor="#FFFFFF">
+<table width="100%" border="0" cellpadding="0" cellspacing="0"
+bgcolor="#FFFFCC">
+<tr>
+<td height="22" colspan="2" valign="bottom">
+<div id="top_corn">Горячие новости</div>
+</td>
+</tr>
+<tr>
+<td style="padding:4px" width="10%" valign="top" bgcolor="#FFFFCC">
+<a href="http://www.avto.ru/hotnews/29875.html"><img src=
+"http://www.avto.ru/foto/24.02.2011/fotoMin/1_68947.jpg" width=
+"105" height="79" alt=
+"В Бурятии вынесен приговор инспектору, обманувшему владельца Hummer"
+style="border:1px #a8a298 solid" /></a></td>
+<td width="90%" valign="middle" bgcolor="#FFFFCC">
+<div class="r_block_info"><a href=
+"http://www.avto.ru/hotnews/29875.html">В Бурятии вынесен приговор
+инспектору, обманувшему владельца Hummer</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:4px" width="10%" valign="top" bgcolor="#FAF1CD">
+<a href="http://www.avto.ru/hotnews/29885.html"><img src=
+"http://www.avto.ru/foto/25.02.2011/fotoMin/1_68968.jpg" width=
+"105" height="79" alt=
+"Для ГИБДД Москвы закупят 150 импортных мотоциклов" style=
+"border:1px #a8a298 solid" /></a></td>
+<td width="90%" valign="middle" bgcolor="#FAF1CD">
+<div class="r_block_info"><a href=
+"http://www.avto.ru/hotnews/29885.html">Для ГИБДД Москвы закупят
+150 импортных мотоциклов</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:4px" width="10%" valign="top" bgcolor="#FFFFCC">
+<a href="http://www.avto.ru/hotnews/29965.html"><img src=
+"http://www.avto.ru/foto/01.03.2011/fotoMin/granta_69107.jpg"
+width="105" height="62" alt=
+"Собирать Lada Granta начнут осенью этого года" style=
+"border:1px #a8a298 solid" /></a></td>
+<td width="90%" valign="middle" bgcolor="#FFFFCC">
+<div class="r_block_info"><a href=
+"http://www.avto.ru/hotnews/29965.html">Собирать Lada Granta начнут
+осенью этого года</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:4px" width="10%" valign="top" bgcolor="#FAF1CD">
+<a href="http://www.avto.ru/hotnews/29949.html"><img src=
+"http://www.avto.ru/foto/28.02.2011/fotoMin/dtp_na_leninskom_69087.jpg"
+width="105" height="70" alt=
+"Mercedes Баркова в момент аварии находился на разделительной полосе"
+style="border:1px #a8a298 solid" /></a></td>
+<td width="90%" valign="middle" bgcolor="#FAF1CD">
+<div class="r_block_info"><a href=
+"http://www.avto.ru/hotnews/29949.html">Mercedes Баркова в момент
+аварии находился на разделительной полосе</a></div>
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" align="left" bgcolor="#FFFFFF">
+<a href="http://avto.ru/hotnews/" class="hot_news">Все горячие
+новости</a>&#160;<img src="/image/str.jpg" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</td>
+<td style="font-size:3px;"></td>
+<td>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:7px;">&#160;</div>
+<div class="lo">&#160;</div>
+<div class="ro">&#160;</div>
+<div class="o_line"></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"
+bgcolor="#FFFFFF">
+<tr>
+<td colspan="4">
+<div id="top_corn">Новости автомира</div>
+</td>
+</tr>
+<tr>
+<td>&#160;</td>
+</tr>
+<tr height="40">
+<td valign="top" class="time_fnews" style="padding-left:4px;">
+<div id="ucTop_N_News_Text_rpNews_ctl01_Div2">22:06</div>
+</td>
+<td valign="top" padding="margin-left:4px;"><a class="links_news"
+href="http://www.avto.ru/news/news_30023.html">На Воробьевых горах
+ограничат проезд</a></td>
+<td valign="top" class="time_fnews" style="padding-left:4px;">
+<div>21:41</div>
+</td>
+<td valign="top" style="padding-left:4px;"><a class="links_news"
+href="http://www.avto.ru/news/news_30022.html">На северо-востоке
+Москвы сожгли три иномарки</a></td>
+</tr>
+<tr height="40">
+<td valign="top" class="time_fnews" style="padding-left:4px;">
+<div>21:28</div>
+</td>
+<td valign="top" padding="margin-left:4px;"><a class="links_news"
+href="http://www.avto.ru/news/news_30021.html">Hyundai Motor
+представил в Женеве три европейские новинки</a></td>
+<td valign="top" class="time_fnews" style="padding-left:4px;">
+<div id="ucTop_N_News_Text_rpNews_ctl04_Div2">21:06</div>
+</td>
+<td valign="top" style="padding-left:4px;"><a class="links_news"
+href="http://www.avto.ru/news/news_30020.html">Suzuki представила в
+Женеве Swift S-concept</a></td>
+</tr>
+<tr height="40">
+<td valign="top" class="time_fnews" style="padding-left:4px;">
+<div>20:31</div>
+</td>
+<td valign="top" padding="margin-left:4px;"><a class="links_news"
+href="http://www.avto.ru/news/news_30019.html">Мошенники рассылают
+sms от имени «АвтоВАЗа»</a></td>
+<td valign="top" class="time_fnews" style="padding-left:4px;">
+<div>20:26</div>
+</td>
+<td valign="top" style="padding-left:4px;"><a class="links_news"
+href="http://www.avto.ru/news/news_30018.html">Госавтоинспекция
+приглашает принять участие в фотоконкурсе</a></td>
+</tr>
+<tr height="40">
+<td valign="top" class="time_fnews" style="padding-left:4px;">
+<div>18:47</div>
+</td>
+<td valign="top" padding="margin-left:4px;"><a class="links_news"
+href="http://www.avto.ru/news/news_30016.html">В феврале 2011 года
+было продано почти 41 тыс. Lada</a></td>
+<td valign="top" class="time_fnews" style="padding-left:4px;">
+<div>18:34</div>
+</td>
+<td valign="top" style="padding-left:4px;"><a class="links_news"
+href="http://www.avto.ru/news/news_30015.html">Российские цены на
+Nissan Juke стартуют от 649 тыс. руб.</a></td>
+</tr>
+<tr>
+<td colspan="4" height="20" valign="top">
+<div class="link_r"><a href=
+"http://www.avto.ru/archive/all/day_20110303.html">все новости
+»</a></div>
+</td>
+</tr>
+</table>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div id="bot"><br />
+<center>
+<table border="0" width="60%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="ltw">&#160;</div>
+<div class="rtw">&#160;</div>
+<div class="w_line"></div>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<div id="DIV_NNN_841">Загружается, подождите...</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="lbw">&#160;</div>
+<div class="rbw">&#160;</div>
+<div class="w_line"></div>
+</td>
+</tr>
+</table>
+</center>
+<br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="76" colspan="3" align="left" valign="top" class=
+"footer">
+<div class="logo_smail"></div>
+<div class="bottom_menu"><a href="http://www.avto.ru/">На
+главную</a> | <a href="http://www.avto.ru/contacts/">Контакты</a> |
+<a href="http://www.avto.ru/about/">О проекте</a> | <a href=
+"http://www.avto.ru/job/">Вакансии</a> | <a href=
+"http://www.avto.ru/reklama/">Реклама на сайте</a> | <a href=
+"http://www.avto.ru/rss.html"><img src="/image/rss.jpg" width="47"
+height="11" align="absbottom" border="0" /></a> | <a href=
+"http://www.avto.ru/informers/">Информеры</a></div>
+<div class="sch"><img src=
+"http://counter.rambler.ru/top100.cnt?823509" width="1" height="1"
+border="0" /><!--LiveInternet counter--><!--/LiveInternet-->
+ <!--begin of Top100 logo-->
+ <a href="http://top100.rambler.ru/top100/"><img src=
+"/image/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100"
+width="88" height="31" border="0" /></a> 
+<!--end of Top100 logo --></div>
+<div class="bottom_txt">Все права на материалы, находящиеся на
+сайте AVTO.RU, охраняются в соответствии с законодательством РФ.
+При любом использовании материалов сайта необходимо указать AVTO.RU
+в качестве источника (hyperlink). Свидетельство СМИ ФС77-35782 от
+30 марта 2009 г.</div>
+</td>
+</tr>
+</table>
+<!-- Yandex.Metrika -->
+<!-- /Yandex.Metrika -->
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"></div>
+<!-- /Yandex.Metrika counter --></div>
+</div>
+<!-- BBelements one2many Position: Avto.ru(2204) / V2Expand(1) / V2expand(1) / V2Media RU 1x1(50) -->
+<!-- HowTo: Place this code into the html page there the ad should appear. -->
+<div id='bmone2n-2204.1.1.50'></div>
+<!-- BBelements one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<div id='bmone2t-2204.1.1.50' style='display:none'></div>
+</body>
+</html>
