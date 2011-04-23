@@ -1,0 +1,6 @@
+D:\projects\AutoDataSpider\AutoDataSpider\bin\Debug\AutoDataSpider.exe
+D:\projects\AutoDataSpider\AutoDataSpider\bin\Debug\AutoDataSpider.pdb
+D:\projects\AutoDataSpider\AutoDataSpider\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\AutoDataSpider\AutoDataSpider\obj\x86\Debug\AutoDataSpider.exe
+D:\projects\AutoDataSpider\AutoDataSpider\obj\x86\Debug\AutoDataSpider.pdb
+D:\projects\AutoDataSpider\AutoDataSpider\bin\Debug\AutoDataSpider.exe.config
