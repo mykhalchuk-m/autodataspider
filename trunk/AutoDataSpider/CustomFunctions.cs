@@ -199,7 +199,7 @@ namespace AutoDataSpider
         {
             string PhotoUrl = GetPhotoURL(PhotoUri);
             Downloader.DownloadPhotos(PhotoUrl, ID, GetPhotoName(PhotoUrl));
-            return MakeTag("photo", PhotoUrl);
+            return PhotoUrl + " ";
         }
 
         private string GetPhotoURL(string URL)
@@ -227,7 +227,7 @@ namespace AutoDataSpider
             }
             else if (Capture.Contains("Телефон"))
             {
-                result = MakeTag("phote", Value);
+                result = MakeTag("phone", Value);
             }
             else if (Capture.Contains("mail"))
             {

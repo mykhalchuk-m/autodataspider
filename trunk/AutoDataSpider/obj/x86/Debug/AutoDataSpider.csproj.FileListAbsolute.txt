@@ -4,3 +4,6 @@ D:\projects\AutoDataSpider\AutoDataSpider\obj\x86\Debug\ResolveAssemblyReference
 D:\projects\AutoDataSpider\AutoDataSpider\obj\x86\Debug\AutoDataSpider.exe
 D:\projects\AutoDataSpider\AutoDataSpider\obj\x86\Debug\AutoDataSpider.pdb
 D:\projects\AutoDataSpider\AutoDataSpider\bin\Debug\AutoDataSpider.exe.config
+D:\Private\projects\autodataspider\AutoDataSpider\bin\Debug\AutoDataSpider.exe.config
+D:\Private\projects\autodataspider\AutoDataSpider\obj\x86\Debug\AutoDataSpider.exe
+D:\Private\projects\autodataspider\AutoDataSpider\obj\x86\Debug\AutoDataSpider.pdb

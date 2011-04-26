@@ -54,14 +54,14 @@
       </xsl:for-each>
     </photos>
 
-    <ouner>
+    <owner>
       <xsl:variable name="city" select="//xhtml:tr[@id='AvtoMarketItem_trPhone']/../xhtml:tr"/>
       <xsl:for-each select="$city">
         <xsl:variable name="capture" select=".//xhtml:span[@class='txt_ofCard']"/>
         <xsl:variable name="value" select="./xhtml:td[2]"/>
         <xsl:value-of select="cf:ParsePersonalInfo($capture, $value)" disable-output-escaping="yes"/>
       </xsl:for-each>
-    </ouner>
+    </owner>
 
   </xsl:template>
 </xsl:stylesheet>
