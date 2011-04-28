@@ -17,7 +17,7 @@
     <xsl:value-of select="cf:ParseAvtoData()" disable-output-escaping="yes"/>
     
     <price>
-      <xsl:value-of select="//xhtml:span[@class='price_foCar']"/>
+      <xsl:value-of select="//xhtml:span[@class='text_in_tabl']"/>
     </price>
 
     <basic.information>
