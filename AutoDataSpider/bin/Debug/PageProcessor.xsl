@@ -19,7 +19,10 @@
           <detailsLink>
             <xsl:value-of select="$link"/>
           </detailsLink>
-          <xsl:value-of disable-output-escaping="yes" select="custFuncs:ApplyTransformationForWebRequestResult($link, '../../transform.xsl', '../../nativetransform.xml','../../transtransform.xml')"/>
+          <price>
+            <xsl:value-of select="xhtml:td[1]/xhtml:span[@class='text_in_tabl']"/>
+          </price>
+          <xsl:value-of disable-output-escaping="yes" select="custFuncs:ApplyTransformationForWebRequestResult($link, 'transform.xsl', 'nativetransform.xml','transtransform.xml')"/>
         </listing>
       </xsl:for-each>
     </listings>

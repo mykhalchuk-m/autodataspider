@@ -2,14 +2,38 @@
 
 
 
-<html xmlns="http://www.w3.org/1999/xhtml" >
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<title>АВТО.РУ: Расширенный поиск объявлений по параметрам - Объявления о продаже автомобилей на cars.AVTO.ru</title>
+<META content="Расширенный поиск объявлений по параметрам. Объявления о продаже автомобилей на cars.AVTO.ru" name=description>
+<META content="Расширенный поиск объявлений по параметрам новые автомобили, поддержанные, после аварии" name=keywords>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta content="http://cars.avto.ru" name="URL">
+<meta content="www.avto.ru, 2005-2011,  http://www.avto.ru" name="author">
+	<meta name='yandex-verification' content='569810c4d670e915' />
+    <meta name="google-site-verification" content="7ZNsME5g-wqc1BWe4HckAblHGBpkGeIxbyh5_w1ym1Q" />
 
+<LINK href="/styles2/Cars.css" type="text/css" rel="stylesheet">
+<link href="/styles/avtoru.css" rel="stylesheet" type="text/css" />
+
+	
+	
+
+
+
+
+
+
+
+
+		    
+
+
+</HEAD>
 <body>
-
-
-
-    <div id="fulld">
-    <div id="top"><center>
+<div id="fulld">
+<div id="top">
+<center>
 
 
 
@@ -57,12 +81,15 @@
 </table>
 
 
+
 </div>
-    <DIV id="center">
+<DIV id="center">
 <DIV id="leftcol">
-	<div class="pics" style="padding-top:3px;"><p><a href="http://www.avto.ru/review/post_30872.html"><img border="0" src="http://www.avto.ru/foto/weektema/13.04.2011/weektema13042011113031.jpg" width="198" height="150"></a></p></div>
-	<div id="corner-box"><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%"><tr><td><div id="top_corn"><a href="http://cars.avto.ru">Автомобили</a></div></td></tr><tr><td><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://www.avto.ru/company"><strong>Каталог компаний</strong></a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://catalog.avto.ru"><strong>Каталог авто</strong></a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/new">Новые авто</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/used">Подержанные авто</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/crashed">Авто после аварии</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://qbuy.ru"><strong>Магазин</strong></a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/komok">Доска объявлений</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/search">Поиск авто</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://user.avto.ru"><strong>Продать авто</strong></a></div></div></div></td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div>
-	<div class="ltw">&nbsp;</div><div class="rtw">&nbsp;</div><div class="w_line"></div>
+    <div class="pics" style="padding-top:3px;">
+	    <p><a href="http://www.avto.ru/review/post_30872.html"><img border="0" src="http://www.avto.ru/foto/weektema/13.04.2011/weektema13042011113031.jpg" width="198" height="150"></a></p>
+	</div>
+    <div id="corner-box"><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%"><tr><td><div id="top_corn"><a href="http://cars.avto.ru">Автомобили</a></div></td></tr><tr><td><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://www.avto.ru/company"><strong>Каталог компаний</strong></a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://catalog.avto.ru"><strong>Каталог авто</strong></a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/new">Новые авто</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/used">Подержанные авто</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/crashed">Авто после аварии</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://qbuy.ru"><strong>Магазин</strong></a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/komok">Доска объявлений</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://cars.avto.ru/search">Поиск авто</a></div></div></div><div class="block_ob_cars"><div class="blocks_mark"><div class="bukvica"><a class=bukvica href="http://user.avto.ru"><strong>Продать авто</strong></a></div></div></div></td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div>
+    <div class="ltw">&nbsp;</div><div class="rtw">&nbsp;</div><div class="w_line"></div>
 	<div style="background-color: #fff">
 	<iframe src="/html/cars_left_11.htm" target=_blank framespacing='0' frameborder='no' scrolling='no' width="195" height="100"></iframe>
 
@@ -81,33 +108,29 @@
 
 	</div>
 	<div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div>
-	<div style="height:3px;">&nbsp;</div> 
+	<div style="height:3px;">&nbsp;</div>
 	<div class="ltw">&nbsp;</div><div class="rtw">&nbsp;</div><div class="w_line"></div>
 	<div style="background-color: #fff">
 	<iframe src="/html/cars_left_31.htm" target=_blank framespacing='0' frameborder='no' scrolling='no' width="195" height="100"></iframe>
 
 	</div>
 	<div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div>
-	<div style="height:3px;">&nbsp;</div> 
-	<div id="corner-box"><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tr><td id="top_corn">Авто в автосалонах</td></tr><tr><td align="left" valign="top"  class="bg_left_obl"><div class="avt_salon"><a href="http://cars.avto.ru/companycard/3665/p1/">Формула 91</a>&nbsp;<span class="pieces">(1840)</span></div><div class="avt_salon"><a href="http://cars.avto.ru/companycard/4839/p1/">&quot;АВКОМ&quot;</a>&nbsp;<span class="pieces">(1134)</span></div><div class="avt_salon"><a href="http://cars.avto.ru/companycard/4383/p1/">Avtostok</a>&nbsp;<span class="pieces">(637)</span></div><div class="avt_salon"><a href="http://cars.avto.ru/companycard/3647/p1/">AVTERRA</a>&nbsp;<span class="pieces">(582)</span></div><div class="avt_salon"><a href="http://cars.avto.ru/companycard/4644/p1/">Автоцентр на Ленинградке</a>&nbsp;<span class="pieces">(525)</span></div><div class="all_comments"><a href="http://cars.avto.ru/salons/">Все салоны</a>&nbsp;<img src="/image/str1.jpg" /></div></td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div>
-    <div id="corner-box"><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%"><tr><td><div id="top_corn"><a href="http://cars.avto.ru/komok">Авто барахолка</a></td></tr><tr><td align="left" valign="top" class="bg_left_obl"><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/1.html">Авто сигнализации</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/3.html">Автозвук</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/2.html">Тюнинг</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/4.html">З/ч для иномарок</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/5.html">З/ч для отечественных авто</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/8.html">Запчасти для грузовиков</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/6.html">Ремонт автомобилей</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/41.html">Работа</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/9.html">Гаражи</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/7.html">Страхование</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/34.html">Шины и Диски</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/44.html">Услуги</a></div></div><div class="all_comments"><a href="http://cars.avto.ru/komok/"><strong>добавить объявление</strong></a>&nbsp;<img src="/image/str1.jpg" /></div></td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div>
+	<div style="height:3px;">&nbsp;</div> 	 		
 	
-	<div id="corner-box"><div class="lo"> </div><div class="ro"> </div><div class="o_line"></div><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%"><tr><td><div id="top_corn_markinfo"><b>
-								Информация по <span>Volkswagen</span></b></div></td></tr><tr><td align="left" valign="top" colspan="2" class="bg_left_obl"><div class="this_theme"><span class="time">26.04.11</span><a href="http://www.avto.ru/review/post_31196.html">Solaris стал ценнее</a></div><br><span class="back2">Компания «Хендэ Мотор СНГ» повысила цены на некоторые комплектации седана Hyundai Solaris. В зависимости от варианта оснащения «Солярисы» подорожали на 0,18—4%. Теперь корейский бестселлер стартует с отметки 399 000 рублей.</span><br><br><div class="this_theme"><span class="time">18.04.11</span><a href="http://www.avto.ru/review/post_31027.html">VW Beetle: вот Жук!</a></div><br><span class="back2">Новое поколение Volkswagen Beetle должны были показать одновременно в Берлине, Шанхае и Нью-Йорке. Но эффект от межконтинентальной премьеры премьеры подпортил журнал Motor Trend, который слил во всемирную паутину часть информации и фотографии.</span><br><br><div class="this_theme"><span class="time">18.04.11</span><a href="http://www.avto.ru/news/news_31017.html">Volkswagen показал обновленного «жука»</a></div><br><span class="back2">Компания Volkswagen представила новое поколение модели Beetle, известной в России как «жук». Новинка отличается более вертикальной задней частью по сравнению с предыдущей версией и новыми передними фарами со светодиодными элементами.</span><br><br></td></tr></table><div class="lbw"> </div><div class="rbw"> </div><div class="w_line"></div></div>
-	<div class="pics"><p><a href="http://www.avto.ru/review/post_30884.html"><img border="0" src="http://www.avto.ru/foto/weektema/19.04.2011/weektema19042011162102.jpg" width="198" height="150"></a></p></div>
+    <div id="corner-box"><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tr><td id="top_corn">Авто в автосалонах</td></tr><tr><td align="left" valign="top"  class="bg_left_obl"><div class="avt_salon"><a href="http://cars.avto.ru/companycard/3665/p1/">Формула 91</a>&nbsp;<span class="pieces">(1171)</span></div><div class="avt_salon"><a href="http://cars.avto.ru/companycard/4839/p1/">&quot;АВКОМ&quot;</a>&nbsp;<span class="pieces">(1137)</span></div><div class="avt_salon"><a href="http://cars.avto.ru/companycard/4383/p1/">Avtostok</a>&nbsp;<span class="pieces">(643)</span></div><div class="avt_salon"><a href="http://cars.avto.ru/companycard/3647/p1/">AVTERRA</a>&nbsp;<span class="pieces">(581)</span></div><div class="avt_salon"><a href="http://cars.avto.ru/companycard/4644/p1/">Автоцентр на Ленинградке</a>&nbsp;<span class="pieces">(526)</span></div><div class="all_comments"><a href="http://cars.avto.ru/salons/">Все салоны</a>&nbsp;<img src="/image/str1.jpg" /></div></td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div>
+    <div id="corner-box"><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%"><tr><td><div id="top_corn"><a href="http://cars.avto.ru/komok">Авто барахолка</a></td></tr><tr><td align="left" valign="top" class="bg_left_obl"><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/1.html">Авто сигнализации</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/3.html">Автозвук</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/2.html">Тюнинг</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/4.html">З/ч для иномарок</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/5.html">З/ч для отечественных авто</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/8.html">Запчасти для грузовиков</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/6.html">Ремонт автомобилей</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/41.html">Работа</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/9.html">Гаражи</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/7.html">Страхование</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/34.html">Шины и Диски</a></div></div><div class="blocks_mark"><div class="bukvica"><a class="bukvica" href="http://cars.avto.ru/komok/44.html">Услуги</a></div></div><div class="all_comments"><a href="http://cars.avto.ru/komok/"><strong>добавить объявление</strong></a>&nbsp;<img src="/image/str1.jpg" /></div></td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div>
+    <div id="corner-box"><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%"><tr><td><div id="top_corn">Последние статьи</div></td></tr><tr><td align="left" valign="top" style="padding:5px;"><div class=this_theme><span class=time>06.05.11</span> <a  href="http://www.avto.ru/review/post_31386.html">Citroen C4: «оптимум» для народа</a></div><br /><span class=back2><a  href="http://www.avto.ru/review/post_31386.html">Запуск производства на заводе в Калуге самой знаковой для Citroen модели – хэтчбека C4 – позволил автомобилю актуального на российском рынке поколения обрести второе дыхание.</a></span><br /><br /><div class=this_theme><span class=time>06.05.11</span> <a  href="http://www.avto.ru/review/post_31389.html">Шавенкова сидеть не собирается</a></div><br /><span class=back2><a  href="http://www.avto.ru/review/post_31389.html">Судебная коллегия по уголовным делам Иркутского областного суда оставила в силе наказание Анне Шавенковой, полтора года назад сбившей на тротуаре двух девушек, одна из которых впоследствии скончалась, а другая осталась инвалидом.</a></span><br /><br /><div class=this_theme><span class=time>05.05.11</span> <a  href="http://www.avto.ru/review/post_31382.html">Видеорегистратор VD-7000W: надежный свидетель</a></div><br /><span class=back2><a  href="http://www.avto.ru/review/post_31382.html">Автомобильный видеорегистратор VD-7000W - из средней ценовой категории, его смело можно назвать эталоном соотношения цены и качества. Он может похвастаться датчиками GPS и G-shock, ЖК-дисплеем и записью звука.</a></span><br /><br /></td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div>
     <div id="corner-box"><div class="ltw">&nbsp;</div><div class="rtw">&nbsp;</div><div class="w_line"></div>
 	<iframe src="/html/infocar_small.htm" frameborder="0" scrolling="no" height="450" width="200px"></iframe>
 	<div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div>
 </DIV>
 <DIV id="rightcol">
 <DIV id="right">
-
-      
-   <div class="big_ban">
+    
+        <div class="big_ban">
 
 </div>
-   
-            
+    
     
     
 
@@ -138,19 +161,17 @@
 		</td>
 	</tr>
 <tr><td colspan="3" bgcolor="#FFFFFF">
-<div>
     <div class="inf">
         <div id="bookmark_blockOBL1" class="info_block2">
-            <div class='padding_LR15'><div class='teg'><a href='http://cars.avto.ru/alfa_romeo/alfa_romeo.html' class='teg0'>Alfa Romeo</a> &nbsp;<a href='http://cars.avto.ru/audi/audi.html' class='teg4'>Audi</a> &nbsp;<a href='http://cars.avto.ru/bmw/bmw.html' class='teg4'>BMW</a> &nbsp;<a href='http://cars.avto.ru/cadillac/cadillac.html' class='teg0'>Cadillac</a> &nbsp;<a href='http://cars.avto.ru/chery/chery.html' class='teg0'>Chery</a> &nbsp;<a href='http://cars.avto.ru/chevrolet/chevrolet.html' class='teg3'>Chevrolet</a> &nbsp;<a href='http://cars.avto.ru/chrysler/chrysler.html' class='teg0'>Chrysler</a> &nbsp;<a href='http://cars.avto.ru/citroen/citroen.html' class='teg1'>Citroen</a> &nbsp;<a href='http://cars.avto.ru/daewoo/daewoo.html' class='teg2'>Daewoo</a> &nbsp;<a href='http://cars.avto.ru/dodge/dodge.html' class='teg0'>Dodge</a> &nbsp;<a href='http://cars.avto.ru/faw/faw.html' class='teg0'>FAW</a> &nbsp;<a href='http://cars.avto.ru/fiat/fiat.html' class='teg0'>Fiat</a> &nbsp;<a href='http://cars.avto.ru/ford/ford.html' class='teg6'>Ford</a> &nbsp;<a href='http://cars.avto.ru/great_wall/great_wall.html' class='teg0'>Great Wall</a> &nbsp;<a href='http://cars.avto.ru/honda/honda.html' class='teg3'>Honda</a> &nbsp;<a href='http://cars.avto.ru/hummer/hummer.html' class='teg0'>Hummer</a> &nbsp;<a href='http://cars.avto.ru/hyundai/hyundai.html' class='teg5'>Hyundai</a> &nbsp;<a href='http://cars.avto.ru/infiniti/infiniti.html' class='teg0'>Infiniti</a> &nbsp;<a href='http://cars.avto.ru/jaguar/jaguar.html' class='teg0'>Jaguar</a> &nbsp;<a href='http://cars.avto.ru/jeep/jeep.html' class='teg0'>Jeep</a> &nbsp;<a href='http://cars.avto.ru/kia/kia.html' class='teg2'>Kia</a> &nbsp;<a href='http://cars.avto.ru/land_rover/land_rover.html' class='teg0'>Land Rover</a> &nbsp;<a href='http://cars.avto.ru/lexus/lexus.html' class='teg1'>Lexus</a> &nbsp;<a href='http://cars.avto.ru/mazda/mazda.html' class='teg4'>Mazda</a> &nbsp;<a href='http://cars.avto.ru/mercedes/mercedes.html' class='teg5'>Mercedes</a> &nbsp;<a href='http://cars.avto.ru/mitsubishi/mitsubishi.html' class='teg5'>Mitsubishi</a> &nbsp;<a href='http://cars.avto.ru/nissan/nissan.html' class='teg6'>Nissan</a> &nbsp;<a href='http://cars.avto.ru/opel/opel.html' class='teg4'>Opel</a> &nbsp;<a href='http://cars.avto.ru/peugeot/peugeot.html' class='teg2'>Peugeot</a> &nbsp;<a href='http://cars.avto.ru/pontiac/pontiac.html' class='teg0'>Pontiac</a> &nbsp;<a href='http://cars.avto.ru/porsche/porsche.html' class='teg0'>Porsche</a> &nbsp;<a href='http://cars.avto.ru/renault/renault.html' class='teg2'>Renault</a> &nbsp;<a href='http://cars.avto.ru/rover/rover.html' class='teg0'>Rover</a> &nbsp;<a href='http://cars.avto.ru/saab/saab.html' class='teg0'>Saab</a> &nbsp;<a href='http://cars.avto.ru/seat/seat.html' class='teg0'>Seat</a> &nbsp;<a href='http://cars.avto.ru/skoda/skoda.html' class='teg1'>Skoda</a> &nbsp;<a href='http://cars.avto.ru/ssangyong/ssangyong.html' class='teg0'>SsangYong</a> &nbsp;<a href='http://cars.avto.ru/subaru/subaru.html' class='teg1'>Subaru</a> &nbsp;<a href='http://cars.avto.ru/suzuki/suzuki.html' class='teg1'>Suzuki</a> &nbsp;<a href='http://cars.avto.ru/toyota/toyota.html' class='teg9'>Toyota</a> &nbsp;<a href='http://cars.avto.ru/volkswagen/volkswagen.html' class='teg6'>Volkswagen</a> &nbsp;<a href='http://cars.avto.ru/volvo/volvo.html' class='teg1'>Volvo</a> &nbsp;<a href='http://cars.avto.ru/vaz/vaz.html' class='teg16'>ВАЗ</a> &nbsp;<a href='http://cars.avto.ru/gaz/gaz.html' class='teg3'>ГАЗ</a> &nbsp;<a href='http://cars.avto.ru/zaz/zaz.html' class='teg0'>ЗАЗ</a> &nbsp;<a href='http://cars.avto.ru/zil/zil.html' class='teg0'>ЗИЛ</a> &nbsp;<a href='http://cars.avto.ru/izh/izh.html' class='teg0'>ИЖ</a> &nbsp;<a href='http://cars.avto.ru/moskvich/moskvich.html' class='teg0'>Москвич</a> &nbsp;<a href='http://cars.avto.ru/tagaz/tagaz.html' class='teg0'>ТагАЗ</a> &nbsp;<a href='http://cars.avto.ru/uaz/uaz.html' class='teg0'>УАЗ</a> &nbsp;</div></div>
+            <div class='padding_LR15'><div class='teg'><a href='http://cars.avto.ru/alfa_romeo/alfa_romeo.html' class='teg0'>Alfa Romeo</a> &nbsp;<a href='http://cars.avto.ru/audi/audi.html' class='teg4'>Audi</a> &nbsp;<a href='http://cars.avto.ru/bmw/bmw.html' class='teg4'>BMW</a> &nbsp;<a href='http://cars.avto.ru/cadillac/cadillac.html' class='teg0'>Cadillac</a> &nbsp;<a href='http://cars.avto.ru/chery/chery.html' class='teg0'>Chery</a> &nbsp;<a href='http://cars.avto.ru/chevrolet/chevrolet.html' class='teg3'>Chevrolet</a> &nbsp;<a href='http://cars.avto.ru/chrysler/chrysler.html' class='teg0'>Chrysler</a> &nbsp;<a href='http://cars.avto.ru/citroen/citroen.html' class='teg1'>Citroen</a> &nbsp;<a href='http://cars.avto.ru/daewoo/daewoo.html' class='teg2'>Daewoo</a> &nbsp;<a href='http://cars.avto.ru/dodge/dodge.html' class='teg0'>Dodge</a> &nbsp;<a href='http://cars.avto.ru/faw/faw.html' class='teg0'>FAW</a> &nbsp;<a href='http://cars.avto.ru/fiat/fiat.html' class='teg0'>Fiat</a> &nbsp;<a href='http://cars.avto.ru/ford/ford.html' class='teg7'>Ford</a> &nbsp;<a href='http://cars.avto.ru/great_wall/great_wall.html' class='teg0'>Great Wall</a> &nbsp;<a href='http://cars.avto.ru/honda/honda.html' class='teg2'>Honda</a> &nbsp;<a href='http://cars.avto.ru/hummer/hummer.html' class='teg0'>Hummer</a> &nbsp;<a href='http://cars.avto.ru/hyundai/hyundai.html' class='teg5'>Hyundai</a> &nbsp;<a href='http://cars.avto.ru/infiniti/infiniti.html' class='teg0'>Infiniti</a> &nbsp;<a href='http://cars.avto.ru/jaguar/jaguar.html' class='teg0'>Jaguar</a> &nbsp;<a href='http://cars.avto.ru/jeep/jeep.html' class='teg0'>Jeep</a> &nbsp;<a href='http://cars.avto.ru/kia/kia.html' class='teg3'>Kia</a> &nbsp;<a href='http://cars.avto.ru/land_rover/land_rover.html' class='teg0'>Land Rover</a> &nbsp;<a href='http://cars.avto.ru/lexus/lexus.html' class='teg1'>Lexus</a> &nbsp;<a href='http://cars.avto.ru/mazda/mazda.html' class='teg4'>Mazda</a> &nbsp;<a href='http://cars.avto.ru/mercedes/mercedes.html' class='teg4'>Mercedes</a> &nbsp;<a href='http://cars.avto.ru/mitsubishi/mitsubishi.html' class='teg4'>Mitsubishi</a> &nbsp;<a href='http://cars.avto.ru/nissan/nissan.html' class='teg6'>Nissan</a> &nbsp;<a href='http://cars.avto.ru/opel/opel.html' class='teg4'>Opel</a> &nbsp;<a href='http://cars.avto.ru/peugeot/peugeot.html' class='teg2'>Peugeot</a> &nbsp;<a href='http://cars.avto.ru/pontiac/pontiac.html' class='teg0'>Pontiac</a> &nbsp;<a href='http://cars.avto.ru/porsche/porsche.html' class='teg0'>Porsche</a> &nbsp;<a href='http://cars.avto.ru/renault/renault.html' class='teg2'>Renault</a> &nbsp;<a href='http://cars.avto.ru/rover/rover.html' class='teg0'>Rover</a> &nbsp;<a href='http://cars.avto.ru/saab/saab.html' class='teg0'>Saab</a> &nbsp;<a href='http://cars.avto.ru/seat/seat.html' class='teg0'>Seat</a> &nbsp;<a href='http://cars.avto.ru/skoda/skoda.html' class='teg1'>Skoda</a> &nbsp;<a href='http://cars.avto.ru/ssangyong/ssangyong.html' class='teg0'>SsangYong</a> &nbsp;<a href='http://cars.avto.ru/subaru/subaru.html' class='teg1'>Subaru</a> &nbsp;<a href='http://cars.avto.ru/suzuki/suzuki.html' class='teg1'>Suzuki</a> &nbsp;<a href='http://cars.avto.ru/toyota/toyota.html' class='teg9'>Toyota</a> &nbsp;<a href='http://cars.avto.ru/volkswagen/volkswagen.html' class='teg7'>Volkswagen</a> &nbsp;<a href='http://cars.avto.ru/volvo/volvo.html' class='teg1'>Volvo</a> &nbsp;<a href='http://cars.avto.ru/vaz/vaz.html' class='teg16'>ВАЗ</a> &nbsp;<a href='http://cars.avto.ru/gaz/gaz.html' class='teg3'>ГАЗ</a> &nbsp;<a href='http://cars.avto.ru/zaz/zaz.html' class='teg0'>ЗАЗ</a> &nbsp;<a href='http://cars.avto.ru/zil/zil.html' class='teg0'>ЗИЛ</a> &nbsp;<a href='http://cars.avto.ru/izh/izh.html' class='teg0'>ИЖ</a> &nbsp;<a href='http://cars.avto.ru/moskvich/moskvich.html' class='teg0'>Москвич</a> &nbsp;<a href='http://cars.avto.ru/tagaz/tagaz.html' class='teg0'>ТагАЗ</a> &nbsp;<a href='http://cars.avto.ru/uaz/uaz.html' class='teg0'>УАЗ</a> &nbsp;</div></div>
         </div>
         <div id="bookmark_blockOBL2" class="info_block2">
             <div class='padding_LR15'><div class='teg'><a href='http://www.avto.ru/company/9_0_1_0_1.html' class='teg5'>Автозаправки - Бензин</a> &nbsp;<a href='http://www.avto.ru/company/10_0_1_0_1.html' class='teg0'>Автозаправки - Газ</a> &nbsp;<a href='http://www.avto.ru/company/11_0_1_0_1.html' class='teg1'>Автомобильные мойки</a> &nbsp;<a href='http://www.avto.ru/company/6_0_1_0_1.html' class='teg5'>Автосалоны</a> &nbsp;<a href='http://www.avto.ru/company/1_0_1_0_1.html' class='teg13'>Автосервисы</a> &nbsp;<a href='http://www.avto.ru/company/5_0_1_0_1.html' class='teg0'>Автострахование</a> &nbsp;<a href='http://www.avto.ru/company/3_0_1_0_1.html' class='teg2'>Автошколы</a> &nbsp;<a href='http://www.avto.ru/company/7_0_1_0_1.html' class='teg1'>Аренда авто</a> &nbsp;<a href='http://www.avto.ru/company/2_0_1_0_1.html' class='teg16'>Магазины запчастей</a> &nbsp;<a href='http://www.avto.ru/company/8_0_1_0_1.html' class='teg10'>Услуги и Товары</a> &nbsp;<a href='http://www.avto.ru/company/12_0_1_0_1.html' class='teg1'>Шины и диски</a> &nbsp;</div></div>
         </div>
         <div id="bookmark_blockOBL3" class="info_block2">
-            <div class='padding_LR15'><div class='teg'><a href='http://top.avto.ru/rubric/3.html' class='teg16'>Автозапчасти, аксессуары</a> &nbsp;<a href='http://top.avto.ru/rubric/4.html' class='teg9'>Автоклубы</a> &nbsp;<a href='http://top.avto.ru/rubric/7.html' class='teg2'>Автопресса</a> &nbsp;<a href='http://top.avto.ru/rubric/6.html' class='teg1'>Автоспецтехника</a> &nbsp;<a href='http://top.avto.ru/rubric/8.html' class='teg3'>Автострахование</a> &nbsp;<a href='http://top.avto.ru/rubric/10.html' class='teg8'>Другое</a> &nbsp;<a href='http://top.avto.ru/rubric/5.html' class='teg0'>Мотоциклы</a> &nbsp;<a href='http://top.avto.ru/rubric/1.html' class='teg11'>Продажа автомобилей</a> &nbsp;<a href='http://top.avto.ru/rubric/2.html' class='teg11'>Техническое обслуживание</a> &nbsp;<a href='http://top.avto.ru/rubric/9.html' class='teg8'>Универсальное</a> &nbsp;</div></div>
+            <div class='padding_LR15'><div class='teg'><a href='http://top.avto.ru/rubric/3.html' class='teg16'>Автозапчасти, аксессуары</a> &nbsp;<a href='http://top.avto.ru/rubric/4.html' class='teg9'>Автоклубы</a> &nbsp;<a href='http://top.avto.ru/rubric/7.html' class='teg3'>Автопресса</a> &nbsp;<a href='http://top.avto.ru/rubric/6.html' class='teg1'>Автоспецтехника</a> &nbsp;<a href='http://top.avto.ru/rubric/8.html' class='teg3'>Автострахование</a> &nbsp;<a href='http://top.avto.ru/rubric/10.html' class='teg8'>Другое</a> &nbsp;<a href='http://top.avto.ru/rubric/5.html' class='teg0'>Мотоциклы</a> &nbsp;<a href='http://top.avto.ru/rubric/1.html' class='teg11'>Продажа автомобилей</a> &nbsp;<a href='http://top.avto.ru/rubric/2.html' class='teg11'>Техническое обслуживание</a> &nbsp;<a href='http://top.avto.ru/rubric/9.html' class='teg8'>Универсальное</a> &nbsp;</div></div>
         </div>
     </div>
-</div>
 
  
 </td></tr></table>
@@ -158,332 +179,617 @@
 </div>
 
 
-      
+    
+    
         <div class="big_ban"><iframe src="/bfr_cars_240_400_2.htm" frameborder="0" scrolling="0" width="240" height="400"></iframe></div>
-    <span id="LastArticles"><div id="corner-box"><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tr><td id="top_corn">Последние статьи</td></tr><tr><td><DIV class="last_article" align="center"><a href="http://www.avto.ru/review/post_31247.html"><img src="http://www.avto.ru/foto/27.04.2011/fotoMin/1_71993.jpg" border="0" style="margin-bottom:-20px;" width="105" height="70"></a><br /><a style="margin-top:-10px;" href="http://www.avto.ru/review/post_31247.html">За темные стекла снимут номера</a></DIV><DIV class="last_article" align="center"><a href="http://www.avto.ru/review/post_31231.html"><img src="http://www.avto.ru/foto/27.04.2011/fotoMin/270493_1_71975.jpg" border="0" style="margin-bottom:-20px;" width="105" height="59"></a><br /><a style="margin-top:-10px;" href="http://www.avto.ru/review/post_31231.html">Opel Astra GTC: от концепта к серии</a></DIV><DIV class="last_article" align="center"><a href="http://www.avto.ru/review/post_31217.html"><img src="http://www.avto.ru/foto/26.04.2011/fotoMin/neu-samooborona-1_71957.jpg" border="0" style="margin-bottom:-20px;" width="105" height="70"></a><br /><a style="margin-top:-10px;" href="http://www.avto.ru/review/post_31217.html">Машины для погони на выбор</a></DIV><DIV class="last_article" align="center"><a href="http://www.avto.ru/review/post_31196.html"><img src="http://www.avto.ru/foto/25.04.2011/fotoMin/solarmain1_71933.jpg" border="0" style="margin-bottom:-20px;" width="105" height="70"></a><br /><a style="margin-top:-10px;" href="http://www.avto.ru/review/post_31196.html">Solaris стал ценнее</a></DIV><DIV class="last_article" align="center"><a href="http://www.avto.ru/review/post_31189.html"><img src="http://www.avto.ru/foto/25.04.2011/fotoMin/1jpg_71907.jpg" border="0" style="margin-bottom:-20px;" width="105" height="70"></a><br /><a style="margin-top:-10px;" href="http://www.avto.ru/review/post_31189.html">Самураи Mitsubishi покорили бездорожье</a></DIV></td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></div></span>
+        
 </DIV>
-
-<DIV id="centcol">
+<DIV id="centcol" style="margin-right:250px;">
     <div class="ltw">&nbsp;</div><div class="rtw">&nbsp;</div><div class="w_line"></div>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"><tr><td>
-    <span class="block2"><a href="http://www.avto.ru">Авто.Ру</a> > <a href="/">Авторынок</a> &gt; <a href='/volkswagen/volkswagen.html'>Volkswagen</a>  &gt; <b><a href='/volkswagen/lupo/1/'>Volkswagen Lupo</a></b>  > 179&nbsp;РУБ</span>
+    <span class="block2"><a href="http://avto.ru"><a class=navigator href=http://www.avto.ru>Авто.Ру</a><span class=separ>&nbsp;>&nbsp;</span><a class=navigator href=http://cars.avto.ru>Авторынок</a><span class=separ>&nbsp;>&nbsp;</span><a class=navigator href=http://cars.avto.ru/search><b>Поиск автомобилей</b></a></a></span>
     </td></tr></table>
     <div class="lbw" style="margin-bottom:7px;">&nbsp;</div><div class="rbw" style="margin-bottom:7px;">&nbsp;</div><div class="w_line" style="margin-bottom:7px;"></div>
-    <div class="ltw">&nbsp;</div><div class="rtw">&nbsp;</div><div class="w_line"></div>
+    <div class="lt_svo">&nbsp;</div><div class="rt_svo">&nbsp;</div><div class="svo_line"></div>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"><tr><td>
-    
-    
-
-
-    <div style="font-family: Tahoma;font-size: 12px;"></div>
-    <div class="top_info_name" style="padding-left:5px;">
-        Объявления о продаже автомобилей
-    </div>
-			
-	<table width="100%" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
-        <tr height="62">
-            <td>
-	            <div class="links_in_selected"><a href="/">Все марки автомобилей</a><br/>
-                    <a href="http://catalog.avto.ru/volkswagen/volkswagen.html">Каталог Volkswagen</a><br />
-                    <a href="/volkswagen/volkswagen.html"> Модели Volkswagen</a> <br />
-                    <a href="http://wallpapers.avto.ru/car/volkswagen/wallpaper-152-1.html">Обои Volkswagen</a>
-                </div>
-                <h2 style="height:45px; padding-left:100px; padding-top:10px; background-image: url('/logotypes/volkswagen_td.gif'); background-position:top left-100px; background-repeat:no-repeat;">Volkswagen Lupo</h2>
-            </td>
-        </tr>
-        
-        <tr height="75">
-            <td valign="top" class="topbord_search">
-			    <div class="links_in_selected" style="line-height:22px">
-			        <a href="/volkswagen/lupo/1/">Все объявления Volkswagen Lupo</a><br />
+                <div id="MarketGrid">
+	
+                    <table border="0" width="100%" cellpadding="0" cellspacing="0" height="40px">
+                    <tr class="bg_top_avt">
+                    <td>
+                        <div class="top_info_name" style="padding-left:5px;"><h1>Расширенный поиск автомобилей</h1></div>
+                    </td>
+                    <td style="padding-right:5px;">
+                        <div class="links_in_selected"><a href="/search/?ns=1&p=1&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=&ht=&pf=&pt=&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&s=usd&mf=&mt=&o=1&vf=&vt=&tf=0&caf=&cat=&cmf=&cmt=&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0">Новый поиск</a> <img src="/image/glass.gif" /></div>                    
+                    </td>
+                    </tr>
+                    </table>
                     
-                    <form name="aspnetForm" method="post" action="item.html?idAvtoMarket=49418&amp;mark=volkswagen&amp;model=lupo&amp;RawUrl=%2fvolkswagen%2flupo%2fvolkswagen-49418-20101203.html&amp;&amp;dtdate=20101203" id="aspnetForm" style="margin:0px; padding:0px;">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE4NjYzNDA2OWRkXY3871Y8CqYXPuYfu7jeP4h2sv8=" />
+                    <br>
+                    <table width="100%" border="0" cellpadding="3" cellspacing="1" class="text" style="padding:5px"><tr><td>
+                    <div class="pages">
+                        <div style="float:right; vertical-align:bottom;"><a href="http://user.avto.ru"><img src="/image/add-button.gif" border="0" /></a></div>
+                        <div class="pages_figure"><span style="color:#000000; font-size:12px;">1</span>&nbsp;|&nbsp;<a href="/search/search.html?p=2&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">2</a>&nbsp;|&nbsp;<a href="/search/search.html?p=3&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">3</a>&nbsp;|&nbsp;<a href="/search/search.html?p=4&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">4</a>&nbsp;|&nbsp;<a href="/search/search.html?p=5&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">5</a>&nbsp;|&nbsp;<a href="/search/search.html?p=6&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">6</a>&nbsp;|&nbsp;<a href="/search/search.html?p=7&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">7</a>&nbsp;|&nbsp;<a href="/search/search.html?p=8&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">8</a>&nbsp;|&nbsp;<a href="/search/search.html?p=9&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">9</a>&nbsp;|&nbsp;<a href="/search/search.html?p=10&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">10</a>&nbsp;|&nbsp;<a href="/search/search.html?p=1741&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">... 1741</a>&nbsp;&nbsp;<a href="/search/search.html?p=11&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd"><img src="/image/right.jpg" align="absmiddle" border="0" /></a></div>
+                    </div>
+                    
+                            <table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#f9d086">
+                                <tr>
+                                    <td width="1%" rowspan="2" valign="top" bgcolor="#fce0b0"><div class="headline_column" style="width:48px">Валюта:</div>
+                                        
+                                        <span class="currency"><a href="/search/search.html?p=1&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=rub&o=1">RUB</a></span>
+                                        
+                                        <span class="currency"><a href="/search/search.html?p=1&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=eur&o=1">€</a></span> 
+                                        
+                                        <span class="selected_currency">$</span>          
+                                        
+                                        <div class="n_column">Цена&nbsp;<img src=/image/open.gif border=0 width=15 height=7>&nbsp;</div></td>
+                                    <td width="1%" rowspan="2" valign="bottom" bgcolor="#fce0b0">
+                                        <img src="/image/apparat.gif" width="16" height="11"/>
+                                    </td>
+                                    <td width="17%" rowspan="2" valign="top" bgcolor="#fce0b0">
+                                        <div class="n_column"><a href="/search/search.html?p=1&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd&o=4" title="Сортировать по модели" class="n_column">Модель</a> </div>
+                                        <!--<div  class="s_t"><img src="/image/s_t.gif" width="9" height="5"></div>-->
+                                    </td>
+                                    <td width="1%" rowspan="2" valign="top" bgcolor="#fce0b0">
+                                        <div class="n_column"><a href="/search/search.html?p=1&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd&o=2" title="Сортировать по году выпуска" class="n_column">Год</a></div>
+                                        <!--<div  class="s_t"><img src="/image/s_t.gif" width="9" height="5" /></div>-->
+                                    </td>
+                                    <td width="1%" rowspan="2" valign="top" bgcolor="#fce0b0">
+                                        <div class="n_column" style="width:42px"><a href="/search/search.html?p=1&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd&o=5" title="Сортировать по пробегу" class="n_column">Пробег</a></div>
+                                        <!--<div  class="s_t"><img src="/image/s_t.gif" width="9" height="5" /></div>-->
+                                    </td>
+                                    <td height="10" colspan="2" valign="top" bgcolor="#fce0b0">
+                                        <div class="headline_column">Двигатель:</div>
+                                    </td>
+                                    <td width="1%" rowspan="2" valign="top" bgcolor="#fce0b0"><div class="n_column">
+                                        К<br />П<br />П</div>
+                                    </td>
+                                    <td width="1%" rowspan="2" valign="top" bgcolor="#fce0b0">
+                                        <div class="n_column">Руль </div>
+                                    </td>
+                                    <td width="1%" rowspan="2" valign="top" bgcolor="#fce0b0">
+                                        <div class="n_column">Кузов / цвет</div>
+                                    </td>
+                                    <td width="14%" rowspan="2" valign="top" bgcolor="#fce0b0">
+                                        <div class="n_column"><a href="/search/search.html?p=1&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd&o=3" title="Сортировать по городу" class="n_column">Город</a></div>
+                                        <!--<div  class="s_t"><img src="/image/s_t.gif" width="9" height="5" /></div>-->
+                                    </td>
+      <td width="2%" rowspan="2" valign="top" bgcolor="#fce0b0"><img src="/image/star.gif" alt="" width="16" height="16" /></td>                                    
+                                </tr>
+                                <tr>
+                                    <td width="1%" height="23" valign="top" bgcolor="#fce0b0"><div class="n_column">тип </div></td>
+                                    <td width="1%" height="23" align="left" valign="top" bgcolor="#fce0b0"><div class="n_column">объем </div></td>
+                                </tr>
+                        
+                            <tr id="rpAvtoMarket_ctl01_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/ac/ace/ac-41156-20100707.html" target="_blank" title="">AC&nbsp;Ace</a></span></td>
+		<td><span class="text_in_tabl">1991</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#000000">-</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#000000">-</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl"><label id="Label1">-</label></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl02_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/ford/tourneo_connect/ford-206766-20110427.html" target="_blank" title="">Ford&nbsp;Tourneo Connect</a></span></td>
+		<td><span class="text_in_tabl">2006</span></td>
+		<td><span class="text_in_tabl">125000</span></td>
+		<td><span class="text_in_tabl" style="color:#B229CB">ТД</span></td>
+		<td><span class="text_in_tabl">1753</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><label id="Label1">-</label></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl03_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/infiniti/i35/infiniti-11555-20101022.html" target="_blank" title="">Infiniti&nbsp;I35</a></span></td>
+		<td><span class="text_in_tabl">2003</span></td>
+		<td><span class="text_in_tabl">67</span></td>
+		<td><span class="text_in_tabl" style="color:#000000">-</span></td>
+		<td><span class="text_in_tabl">3498</span></td>
+		<td><span class="text_in_tabl" style="color:#000000">-</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><label id="Label1">-</label></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl04_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/tatra/700/tatra-69845-20101129.html" target="_blank" title="">Tatra&nbsp;700</a></span></td>
+		<td><span class="text_in_tabl">1950</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#000000">-</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><label id="Label1">-</label></span></td>
+		<td><span class="text_in_tabl">Йошкар-Ола</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl05_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/vaz/2109/vaz-43069-20101108.html" target="_blank" title="">ВАЗ&nbsp;2109</a></span></td>
+		<td><span class="text_in_tabl">1988</span></td>
+		<td><span class="text_in_tabl">0</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/02-10.gif" alt="Хэтчбек Красный" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Санкт-Петербург</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl06_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/vaz/21123/vaz-19556-20110305.html" target="_blank" title="">ВАЗ&nbsp;21123</a></span></td>
+		<td><span class="text_in_tabl">2009</span></td>
+		<td><span class="text_in_tabl">7000</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">1600</span></td>
+		<td><span class="text_in_tabl" style="color:#000000">-</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/03-10.gif" alt="Купе Красный" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Тула</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl07_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/vaz/priora/vaz-141577-20110328.html" target="_blank" title="">ВАЗ&nbsp;Priora</a></span></td>
+		<td><span class="text_in_tabl">2011</span></td>
+		<td><span class="text_in_tabl">1600</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">1600</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-29.gif" alt="Седан Бордовый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Лобня</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl08_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/gaz/2217/gaz-84581-20110224.html" target="_blank" title="">ГАЗ&nbsp;2217</a></span></td>
+		<td><span class="text_in_tabl">2005</span></td>
+		<td><span class="text_in_tabl">92000</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">2286</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><label id="Label1">-</label></span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl09_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">0</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/uaz/31622/uaz-93323-20110328.html" target="_blank" title="">УАЗ&nbsp;31622</a></span></td>
+		<td><span class="text_in_tabl">2002</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">2700</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/06-08.gif" alt="Внедорожник Коричневый" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Томск</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl10_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">1</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/vaz/21074/vaz-15264-20100609.html" target="_blank" title="">ВАЗ&nbsp;21074</a></span></td>
+		<td><span class="text_in_tabl">2000</span></td>
+		<td><span class="text_in_tabl">100</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">1568</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-09.gif" alt="Седан Бордовый" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Санкт-Петербург</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl11_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">2</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/bmw/525/bmw-4922-20110427.html" target="_blank" title="">BMW&nbsp;525</a></span></td>
+		<td><span class="text_in_tabl">1985</span></td>
+		<td><span class="text_in_tabl">242</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">2500</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-04.gif" alt="Седан Белый" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl12_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">2</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/honda/civic/honda-100038-20110131.html" target="_blank" title="">Honda&nbsp;Civic</a></span></td>
+		<td><span class="text_in_tabl">1986</span></td>
+		<td><span class="text_in_tabl">100000</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">1477</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/05-23.gif" alt="Универсал Серебристый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl13_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">2</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/honda/civic/honda-209420-20110407.html" target="_blank" title="">Honda&nbsp;Civic</a></span></td>
+		<td><span class="text_in_tabl">1988</span></td>
+		<td><span class="text_in_tabl">229560</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">1400</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-17.gif" alt="Седан Синий" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Дубна</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl14_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">2</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/vaz/21096/vaz-205223-20110328.html" target="_blank" title="">ВАЗ&nbsp;21096</a></span></td>
+		<td><span class="text_in_tabl">1998</span></td>
+		<td><span class="text_in_tabl">76000</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">1500</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-25.gif" alt="Седан Золотой металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl15_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">2</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/gaz/31029/gaz-19453-20100512.html" target="_blank" title="">ГАЗ&nbsp;31029</a></span></td>
+		<td><span class="text_in_tabl">1995</span></td>
+		<td><span class="text_in_tabl">80000</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">2445</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-04.gif" alt="Седан Белый" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Ростов-на-Дону</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl16_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">3</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/renault/twingo/renault-4002-20110419.html" target="_blank" title="">Renault&nbsp;Twingo</a></span></td>
+		<td><span class="text_in_tabl">1996</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">1239</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/08-22.gif" alt="Мини-вэн Серый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Кострома</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl17_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">3</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/vaz/2110/vaz-121178-20100923.html" target="_blank" title="">ВАЗ&nbsp;2110</a></span></td>
+		<td><span class="text_in_tabl">1996</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#000000">-</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-14.gif" alt="Седан Темно-Зеленый" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Новгород</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl18_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">4</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/mercedes/190/mercedes-59590-20100905.html" target="_blank" title="">Mercedes&nbsp;190</a></span></td>
+		<td><span class="text_in_tabl">1983</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">2800</span></td>
+		<td><span class="text_in_tabl" style="color:#FF0000">А</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-33.gif" alt="Седан Зеленый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">петушки</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl19_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">4</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/volvo/s80/volvo-95790-20101210.html" target="_blank" title="">Volvo&nbsp;S80</a></span></td>
+		<td><span class="text_in_tabl">2005</span></td>
+		<td><span class="text_in_tabl">75200</span></td>
+		<td><span class="text_in_tabl" style="color:#E49E17">ТН</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#FF0000">А</span></td>
+		<td><span class="text_in_tabl">Пр.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-23.gif" alt="Седан Серебристый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl20_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">4</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/vaz/21074/vaz-203996-20110401.html" target="_blank" title="">ВАЗ&nbsp;21074</a></span></td>
+		<td><span class="text_in_tabl">2007</span></td>
+		<td><span class="text_in_tabl">50000</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-17.gif" alt="Седан Синий" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Санкт-Петербург</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl21_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">4</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/vaz/21074i/vaz-199643-20110506.html" target="_blank" title="">ВАЗ&nbsp;21074i</a></span></td>
+		<td><span class="text_in_tabl">2007</span></td>
+		<td><span class="text_in_tabl">85000</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">16</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-17.gif" alt="Седан Синий" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Дмитров</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl22_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">4</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/vaz/2110/vaz-112483-20110506.html" target="_blank" title="">ВАЗ&nbsp;2110</a></span></td>
+		<td><span class="text_in_tabl">1998</span></td>
+		<td><span class="text_in_tabl">30000</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">1500</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-33.gif" alt="Седан Зеленый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">изобильный</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl23_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">4</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/vaz/21150i/vaz-16060-20100802.html" target="_blank" title="">ВАЗ&nbsp;21150i</a></span></td>
+		<td><span class="text_in_tabl">2003</span></td>
+		<td><span class="text_in_tabl">125000</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">15000</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-33.gif" alt="Седан Зеленый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl24_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">4</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/zaz/965/zaz-210972-20110413.html" target="_blank" title="">ЗАЗ&nbsp;965</a></span></td>
+		<td><span class="text_in_tabl">1968</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">887</span></td>
+		<td><span class="text_in_tabl" style="color:#000000">-</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/03-07.gif" alt="Купе Бежевый" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">пугачев</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl25_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">5</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/vaz/21093/vaz-76447-20110124.html" target="_blank" title="">ВАЗ&nbsp;21093</a></span></td>
+		<td><span class="text_in_tabl">2001</span></td>
+		<td><span class="text_in_tabl">125</span></td>
+		<td><span class="text_in_tabl" style="color:#545454">К</span></td>
+		<td><span class="text_in_tabl">15</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/02-22.gif" alt="Хэтчбек Серый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Воронеж</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl26_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">5</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/vaz/21099/vaz-95416-20110423.html" target="_blank" title="">ВАЗ&nbsp;21099</a></span></td>
+		<td><span class="text_in_tabl">2004</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">1500</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-33.gif" alt="Седан Зеленый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Звенигород</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl27_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">5</span></td>
+		<td valign="middle">&nbsp</td>
+		<td><span class="text_in_tabl"><a href="/vaz/2111/vaz-209900-20110408.html" target="_blank" title="">ВАЗ&nbsp;2111</a></span></td>
+		<td><span class="text_in_tabl">2004</span></td>
+		<td><span class="text_in_tabl">83000</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">1500</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/05-23.gif" alt="Универсал Серебристый металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Санкт-Петербург</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl28_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">6</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/mazda/323/mazda-201869-20110326.html" target="_blank" title="">Mazda&nbsp;323</a></span></td>
+		<td><span class="text_in_tabl">1997</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">-</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/02-37.gif" alt="Хэтчбек Синий металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Казань</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl29_lSR" bgcolor="#faf1cd">
+		<td><span class="text_in_tabl">6</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/toyota/camry/toyota-163881-20110119.html" target="_blank" title="">Toyota&nbsp;Camry</a></span></td>
+		<td><span class="text_in_tabl">1994</span></td>
+		<td><span class="text_in_tabl">300000</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">2200</span></td>
+		<td><span class="text_in_tabl" style="color:#FF0000">А</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-21.gif" alt="Седан Черный металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Москва-Медведкого-Бабушкинская</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            <tr id="rpAvtoMarket_ctl30_lSR" bgcolor="#ffffff">
+		<td><span class="text_in_tabl">6</span></td>
+		<td valign="middle"><img src="/image/apparat.gif" width="16" height="11" /></td>
+		<td><span class="text_in_tabl"><a href="/vaz/21104/vaz-25536-20101206.html" target="_blank" title="">ВАЗ&nbsp;21104</a></span></td>
+		<td><span class="text_in_tabl">2006</span></td>
+		<td><span class="text_in_tabl">119500</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">И</span></td>
+		<td><span class="text_in_tabl">16</span></td>
+		<td><span class="text_in_tabl" style="color:#7B98B6">М</span></td>
+		<td><span class="text_in_tabl">Лев.</span></td>
+		<td><span class="text_in_tabl"><img id="Img3" src="/ColorBody/01-21.gif" alt="Седан Черный металлик" width="38" height="18" /></span></td>
+		<td><span class="text_in_tabl">Москва</span></td>
+		<td></td>
+	</tr>
+	
+                        
+                            </table>
+                        
 
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="-o58BmfeHZIsmK2XD9aY9D6o_mHDwjdCNKgZ3fBzlhP-Bp_fVshqIF4kWpn3Ej6w_7il7VAjWLHBDIKHsKp0-o32Fas1" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgK2qOM7Aoeo7cUFF2P9jq21aem0HHIuBtzYIJDaV74=" />
-                    <img src="/image/print.gif" align="absbottom" style="padding-top:3px" />&nbsp;&nbsp;<a id="AvtoMarketItem_lbPrintVer" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;AvtoMarketItem$lbPrintVer&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/volkswagen/lupo/pver_5c4095df-0507-4f94-b630-a30bf4ba2517.html&quot;, false, true))">Версия для печати</a>
-                    </form>
-                </div>
-                <div>
-				<h2 class="nCar_foCard">Volkswagen Lupo 1999 подержанный</h2>
-				<br />
-				<span class="price_foCar">179&nbsp;РУБ</span>
-
-
-
-                <br clear="all">
-                <DIV class=links_in_selected><b>Похожие объявления:</b><br><a href="/vaz/21053/vaz-206610-20110411.html">ВАЗ 21053</a>, <a href="/vaz/21061/vaz-40245-20100802.html">ВАЗ 21061</a></DIV>
-			</td>
-        </tr>
-    </table>
-
-<div id="itemPhotoD" style="overflow-x:auto; width:100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
-    <tr height="10">
-        <td valign="top"><span class="subheading_foCar">Основные характеристики:</span><br />
-            <div style="width:195px"> </div>
-            <table width="100%" border="0" cellpadding="0" cellspacing="5">
-            
-            <tr height="10">
-                <td class="txt_ofCard">Год выпуска</td>
-                <td class="txt_ofCardB">1999</td>
-            </tr>
-            
-            <tr height="10">
-                <td class="txt_ofCard">Пробег, км:</td>
-                <td class="txt_ofCardB">150</td>
-            </tr>
-            <tr height=10><td class="txt_ofCard">Тип кузова:</td><td class="txt_ofCardB">Хэтчбек</td></tr>
-            <tr height=10>
-                <td class="txt_ofCard">Цвет:</td>
-                <td class="txt_ofCardB"><div class=color title="Красный" style=" text-align:center;background-color:#FF0000;">&nbsp;</div></td>
-            </tr>
-            
-            <tr height=10>
-                <td class="txt_ofCard">Тип двигателя:</td>
-                <td class="txt_ofCardB">Бензин инжектор</td>
-            </tr>
-            
-            <tr height=10>
-                <td class="txt_ofCard">Объём, см<sup>3</sup>/л.с.:</td>
-                <td class="txt_ofCardB">1/50</td>
-            </tr>
-            
-            <tr height=10>
-                <td class="txt_ofCard">КПП:</td>
-                <td class="txt_ofCardB">Механическая</td>
-            </tr>   
-            
-            <tr height=10>
-                <td class="txt_ofCard">Привод:</td>
-                <td class="txt_ofCardB">Передний</td>
-            </tr>
-            
-            <tr height=10>
-                <td class="txt_ofCard">Руль:</td>
-                <td class="txt_ofCardB">Левый</td>
-            </tr>
-            
-            <tr height=10>
-                <td class="txt_ofCard">Таможня:</td>
-                <td class="txt_ofCardB">Растаможен</td>
-            </tr>
-            
-            <tr height=10>
-                <td class="txt_ofCard">Состояние:</td>
-                <td class="txt_ofCardB">Хорошее</td>
-            </tr>
-            
-            <tr height=10>
-                <td class="txt_ofCard">Дата <br />публикации:</td>
-                <td class="txt_ofCardB">03.12.2010</td>
-            </tr>
-            
-            </table>
-            <br>
-
-
-
-<br>
-
-
-        </td>
-        <td>
-            <div id="AvtoMarketItem_nophotoDiv" style="width: 100%; height=100%; vertical-align: middle; text-align: center;"><br><br><br><br><br><img src="http://cars.avto.ru/img/nophoto.jpg"/></div>
-        </td>
-    </tr>
-</table>
+                    <div class="pages">
+                        <div class="pages_figure"><span style="color:#000000; font-size:12px;">1</span>&nbsp;|&nbsp;<a href="/search/search.html?p=2&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">2</a>&nbsp;|&nbsp;<a href="/search/search.html?p=3&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">3</a>&nbsp;|&nbsp;<a href="/search/search.html?p=4&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">4</a>&nbsp;|&nbsp;<a href="/search/search.html?p=5&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">5</a>&nbsp;|&nbsp;<a href="/search/search.html?p=6&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">6</a>&nbsp;|&nbsp;<a href="/search/search.html?p=7&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">7</a>&nbsp;|&nbsp;<a href="/search/search.html?p=8&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">8</a>&nbsp;|&nbsp;<a href="/search/search.html?p=9&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">9</a>&nbsp;|&nbsp;<a href="/search/search.html?p=10&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">10</a>&nbsp;|&nbsp;<a href="/search/search.html?p=1741&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd">... 1741</a>&nbsp;&nbsp;<a href="/search/search.html?p=11&co=0&ma=0&mo=0&wh=0&kp=0&yf=1950&yt=2011&hf=0&ht=0&pf=0&pt=0&et=0&bt=0&dt=0&fo=0&ta=0&pd=0&tc=-1&ts=0&vn=0&cu=0&o=1&mf=0&mt=0&vf=0&vt=0&tf=0&caf=0&cat=0&cmf=0&cmt=0&p1=0&p2=0&p3=0&ci=0&ct=0&ttp=notype&tt=0&s=usd"><img src="/image/right.jpg" align="absmiddle" border="0" /></a></div>
+                    </div>					
+					
 </div>
+					</td></tr></table>
+<TABLE width="100%" border="0" align="center">
+<tr>
+<td align="center">
+<!--<span id="ucAdfox"></span>-->
+</td>
+</tr>
+</TABLE>
+
+
+                        <div class="yandex">
+<!-- Яндекс.Директ -->
+
+</div>
+<iframe src="/banners/VongoBanner.aspx" target=_blank width=100% framespacing='0' frameborder='no' scrolling='no'></iframe>
+
+        </td></tr></table>
+    <div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div>
     
-		<table width="100%" border="0" cellpadding="0" cellspacing="0" class="text" bgcolor="#FFFFFF" style="padding:8px;">
-			<tr>
-				<td  class="topbord_search" valign="top" colspan=2><div class="subheading_foCar" style="padding-bottom: 10px;">Комплектация автомобиля Volkswagen Lupo</div></td>
-			</tr>
-			<tr><td valign=top>
-	
-	        
-		    <img src="/image/01security.gif"  align="left"/><div  class="txt_ofCardPad">&nbsp;Безопасность</div>
-			<div class="txt_ofPrintCard">ABS <br>ESP <br>Подушка безопасности водителя <br>Подушка безопасности пассажира <br></div>
-	
-	        
-		    <img src="/image/02comfort.gif"  align="left"/><div  class="txt_ofCardPad">&nbsp;Комфорт</div>
-			<div class="txt_ofPrintCard">ГУР <br>Кондиционер <br>Регулируемая рулевая колонка <br></div>
-	
-	        
-		    <img src="/image/03safety.gif"  align="left"/><div  class="txt_ofCardPad">&nbsp;Противоугонное</div>
-			<div class="txt_ofPrintCard">не заполнена<br></div>
-	
-	        </td><td valign=top>
-		    <img src="/image/04music.gif"  align="left"/><div  class="txt_ofCardPad">&nbsp;Музыка</div>
-			<div class="txt_ofPrintCard">Магнитола (MP3)<br></div>
-	
-	        
-		    <img src="/image/05privod.gif"  align="left"/><div  class="txt_ofCardPad">&nbsp;Электропривод</div>
-			<div class="txt_ofPrintCard">не заполнена<br></div>
-	
-	        
-		    <img src="/image/06other.gif"  align="left"/><div  class="txt_ofCardPad">&nbsp;Другие опции и оборудование</div>
-			<div class="txt_ofPrintCard">Обогрев заднего стекла <br>Парковочные радары <br>Противотуманные фары <br>Центральный замок <br></div>
-	
-	        </td></tr>
-		</table>
-	<table id="AvtoMarketItem_trAddInfo" width="100%" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
-	<tr>
-		<td valign="top" class="topbord_search"><span class="subheading_foCar">Дополнительная информация:</span><br /><div class="txt_ofCard2">резина в подарок</div></td>
-	</tr>
+<div style="height:7px;">&nbsp;</div><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" colspan="3">
+ 
+</td>
+</tr>
 </table>
- 
-            <table width="100%" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
-              <tr height="20"><td colspan="2" valign="top" class="topbord_search" width="50%"><span class="subheading_foCar">Контакты:</span></td>
-              <td class="topbord_search" align="right" width="50%">&nbsp;<div class="txt" style="width:215px; text-align:right;"><a href='/car/sankt-peterburg/volkswagen/lupo/1/used_All_All_price/'>Подержанные легковые автомобили Volkswagen Lupo в г. Санкт-Петербург</a></div></td></tr>
-              
-              <tr><td width="16%"><span class="txt_ofCard">Страна:</span></td><td colspan="2" width="84%"><span class="txt">Россия</span></td></tr>
-              
-              <tr><td width="16%"><span class="txt_ofCard">Город:</span></td><td colspan="2"><span class="txt">Санкт-Петербург</span></td></tr>
-              
-              <tr><td width="16%"><span class="txt_ofCard">Контактное лицо:</span></td><td colspan="2"><span class="txt">елена</span></td></tr>
-              <tr id="AvtoMarketItem_trPhone">
-	<td width="16%"><span class="txt_ofCard">Телефон:</span></td>
-	<td class="txt">+7(911)2987783<span id="AvtoMarketItem_spPhone" class="txt">, с 10 до 22</span></td>
-	<td class="txt" align="right" width="50%"><table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><center>
-
-
-
-<br></center></td></tr></table></td>
-</tr>
-<tr id="AvtoMarketItem_trEmail">
-	<td width="16%"><span class="txt_ofCard">E-mail:</span></td>
-	<td colspan="2"><span class="txt"><a href="mailto:hrusheva.1979@mail.ru">hrusheva.1979@mail.ru</a></span></td>
-</tr>
-
-              </table>
-              
-
-
-    
-    <table width="100%" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF"><tr><td class="topbord_search"><span class="txt_ofCard">В случае недостоверной информации, <a href="mailto:tech@corp.avto.ru?subject=49418-cars.avto.ru">отправьте</a> ссылку на это объявление администратору сайта.</span></td></tr></table>
-   
-    <div class="txt" style="padding: 5px;">
-				Продажа автомобиля Volkswagen Lupo 1999 года с пробегом 150 КМ. 
-				Бу авто Volkswagen Lupo с механической коробкой передач по цене 179&nbsp;РУБ.</div>
-				</div>
- 
-    </td></tr><tr><td style="border-top:#f9d086 1px solid;">
-    <!-- Яндекс.Директ -->   
-    <iframe src="/banners/VongoBanner.aspx" target=_blank width=100% framespacing='0' frameborder='no' scrolling='no'></iframe>
- 
-    </td></tr></table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div><div style="height:7px;">&nbsp</div>
-        
-  
-    <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td>
-	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tr>
-	<td><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div></td>
-	<td style="font-size:3px;"></td>
-	<td><div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div></td>
-	</tr>
-	<tr valign="top">
-	<td bgcolor="#FFFFFF">
-	     <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tr><td height="22" colspan="2" valign="bottom"><div id="top_corn">Главные новости</div></td></tr><tr><td width="10%" valign="top" class="r_block_img"><a href="http://www.avto.ru/news/news_31285.html"><img src="http://www.avto.ru/foto/28.04.2011/fotoMin/1_72032.jpg" width="105" height="79" alt="Власти Москвы опровергают данные о подорожании техосмотра" style="border:1px #a8a298 solid"></a></td><td width="90%" valign="top" style="padding-top:5px;"><div class="r_block_info"><a href="http://www.avto.ru/news/news_31285.html">Власти Москвы опровергают данные о подорожании техосмотра</a></div></td></tr><tr><td width="10%" valign="top" class="r_block_img"><a href="http://www.avto.ru/news/news_31281.html"><img src="http://www.avto.ru/foto/28.04.2011/fotoMin/1_72028.jpg" width="105" height="84" alt="Российские власти пытаются обуздать бензиновый кризис" style="border:1px #a8a298 solid"></a></td><td width="90%" valign="top" style="padding-top:5px;"><div class="r_block_info"><a href="http://www.avto.ru/news/news_31281.html">Российские власти пытаются обуздать бензиновый кризис</a></div><div class="comment_fnews" style="margin-left: 10px;"><a href="http://www.avto.ru/comments/news_31281.html">
-                                    Комментарии: 3</a></div></td></tr><tr><td width="10%" valign="top" class="r_block_img"><a href="http://www.avto.ru/news/news_31274.html"><img src="http://www.avto.ru/foto/28.04.2011/fotoMin/1_72023.jpg" width="105" height="77" alt="В Москве засняли гонщика на VIP-автомобиле с мигалками" style="border:1px #a8a298 solid"></a></td><td width="90%" valign="top" style="padding-top:5px;"><div class="r_block_info"><a href="http://www.avto.ru/news/news_31274.html">В Москве засняли гонщика на VIP-автомобиле с мигалками</a></div></td></tr><tr><td width="10%" valign="top" class="r_block_img"><a href="http://www.avto.ru/news/news_31271.html"><img src="http://www.avto.ru/foto/28.04.2011/fotoMin/1_72020.jpg" width="105" height="83" alt="Медведев намерен отменить техосмотр" style="border:1px #a8a298 solid"></a></td><td width="90%" valign="top" style="padding-top:5px;"><div class="r_block_info"><a href="http://www.avto.ru/news/news_31271.html">Медведев намерен отменить техосмотр</a></div><div class="comment_fnews" style="margin-left: 10px;"><a href="http://www.avto.ru/comments/news_31271.html">
-                                    Комментарии: 17</a></div></td></tr></table> 
-	</td>
-	<td  style="font-size:7px;" width="7px">&nbsp;</td>
-	<td bgcolor="#FFFFFF">
-		  <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFCC"><tr><td height="22" colspan="2" valign="bottom"><div id="top_corn">Горячие новости </div></td></tr><tr><td style="padding:4px" width="10%" valign="top" bgcolor="#FFFFCC"><a href="http://www.avto.ru/hotnews/30686.html"><img src="http://www.avto.ru/foto/01.04.2011/fotoMin/1_70705.jpg" width="105" height="81" alt="Путин прокатился на «ё-мобиле»" style="border:1px #a8a298 solid"></a></td><td width="90%" valign="middle" bgcolor="#FFFFCC"><div class="r_block_info"><a href="http://www.avto.ru/hotnews/30686.html">Путин прокатился на «ё-мобиле»</a></div></td></tr><tr><td style="padding:4px" width="10%" valign="top" bgcolor="#FAF1CD"><a href="http://www.avto.ru/hotnews/30699.html"><img src="http://www.avto.ru/foto/04.04.2011/fotoMin/osmotr_70779.jpg" width="105" height="70" alt="Новые правила регистрации автомобилей вступили в силу" style="border:1px #a8a298 solid"></a></td><td width="90%" valign="middle" bgcolor="#FAF1CD"><div class="r_block_info"><a href="http://www.avto.ru/hotnews/30699.html">Новые правила регистрации автомобилей вступили в силу</a></div></td></tr><tr><td style="padding:4px" width="10%" valign="top" bgcolor="#FFFFCC"><a href="http://www.avto.ru/hotnews/30798.html"><img src="http://www.avto.ru/foto/07.04.2011/fotoMin/kamaz_i_maz_70954.jpg" width="105" height="65" alt="Россию не устраивает проект слияния «КамАЗа» и «МАЗа»" style="border:1px #a8a298 solid"></a></td><td width="90%" valign="middle" bgcolor="#FFFFCC"><div class="r_block_info"><a href="http://www.avto.ru/hotnews/30798.html">Россию не устраивает проект слияния «КамАЗа» и «МАЗа»</a></div></td></tr><tr><td style="padding:4px" width="10%" valign="top" bgcolor="#FAF1CD"><a href="http://www.avto.ru/hotnews/30704.html"><img src="http://www.avto.ru/foto/04.04.2011/fotoMin/benzin_70784.jpg" width="105" height="79" alt="Цены на бензин снова начали расти" style="border:1px #a8a298 solid"></a></td><td width="90%" valign="middle" bgcolor="#FAF1CD"><div class="r_block_info"><a href="http://www.avto.ru/hotnews/30704.html">Цены на бензин снова начали расти</a></div></td></tr><tr><td width="100%" colspan="2" align="left" bgcolor="#FFFFFF"><a href="http://avto.ru/hotnews/" class="hot_news">Все горячие новости</a> <img src="/image/str.jpg"></td></tr></table>
-	</td>
-	</tr>
-	<tr>
-	<td><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></td>
-	<td style="font-size:3px;"></td>
-	<td><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div></td>
-	</tr>
-	</table>
-	</td></tr><tr><td>
-	<div style="height:7px;">&nbsp;</div>
-    
-    <div class="lo">&nbsp;</div><div class="ro">&nbsp;</div><div class="o_line"></div>
-    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-    <tr><td colspan="4"><div id="top_corn">Новости автомира</div></td></tr>
-    <tr><td>&nbsp;</td></tr>
-
-    <tr height="40">
-    <td valign="top" class="time_fnews" style="padding-left:4px;">
-        <div>21:51</div>
-    </td>
-    <td valign="top" padding="margin-left:4px;">
-        <a class="links_news" href=http://www.avto.ru/news/news_31284.html>Швеция одобрила продажу Saab российскому предпринимателю Антонову</a>
-    </td>
-
-    <td valign="top" class="time_fnews" style="padding-left:4px;">
-        <div>20:44</div>
-    </td>
-    <td valign="top" style="padding-left:4px;">
-        <a class="links_news" href=http://www.avto.ru/news/news_31282.html>«Доктор Хаус» предпочитает ретрокары</a>
-    </td>
-    </tr>
-
-    <tr height="40">
-    <td valign="top" class="time_fnews" style="padding-left:4px;">
-        <div>20:40</div>
-    </td>
-    <td valign="top" padding="margin-left:4px;">
-        <a class="links_news" href=http://www.avto.ru/news/news_31283.html>Вице-президента «Роснефти» отстранили от должности</a>
-    </td>
-
-    <td valign="top" class="time_fnews" style="padding-left:4px;">
-        <div>19:54</div>
-    </td>
-    <td valign="top" style="padding-left:4px;">
-        <a class="links_news" href=http://www.avto.ru/news/news_31278.html>У Москвы и области в ближайшее время появится единая градостроительная концепция</a>
-    </td>
-    </tr>
-
-    <tr height="40">
-    <td valign="top" class="time_fnews" style="padding-left:4px;">
-        <div>19:35</div>
-    </td>
-    <td valign="top" padding="margin-left:4px;">
-        <a class="links_news" href=http://www.avto.ru/news/news_31277.html>Ветеранов ВОВ в Москве две недели будут возить бесплатно</a>
-    </td>
-
-    <td valign="top" class="time_fnews" style="padding-left:4px;">
-        <div>19:23</div>
-    </td>
-    <td valign="top" style="padding-left:4px;">
-        <a class="links_news" href=http://www.avto.ru/news/news_31276.html>У метро «Теплый стан» в Москве появится крупная развязка</a>
-    </td>
-    </tr>
-
-    <tr height="40">
-    <td valign="top" class="time_fnews" style="padding-left:4px;">
-        <div>18:44</div>
-    </td>
-    <td valign="top" padding="margin-left:4px;">
-        <a class="links_news" href=http://www.avto.ru/news/news_31275.html>Годовая выручка Sollers выросла в полтора раза</a>
-    </td>
-
-    <td valign="top" class="time_fnews" style="padding-left:4px;">
-        <div>17:34</div>
-    </td>
-    <td valign="top" style="padding-left:4px;">
-        <a class="links_news" href=http://www.avto.ru/news/news_31273.html>Роспотребнадзор недоволен таможенниками, не пропускающими нефонящие «японки»</a><div id="ucTop_N_News_Text_rpNews_ctl08_Div5" class="comment_fnews"><a href=http://www.avto.ru/comments/news_31273.html>Комментарии: 1</a></div>
-    </td>
-    </tr>
-
-<tr><td colspan="4" height="20" valign="top"><div class="link_r">
-   <a  href="http://www.avto.ru/archive/all/day_20110429.html">все новости »</a></div></td></tr>
-</table><div class="lbw">&nbsp;</div><div class="rbw">&nbsp;</div><div class="w_line"></div>
-  
-
-
-    </td></tr></table>
 </DIV></DIV></DIV>
-
 <div style="clear: both;"></div>
-
 <div id="bot">
+<!-- BBelements one2many Position: Avto.ru(2204) / V2Expand(1) / V2expand(1) / V2Media RU 1x1(50) -->
+<!-- HowTo: Place this code into the html page there the ad should appear. -->
+<div id='bmone2n-2204.1.1.50'>
+
+</div>
+<!-- BBelements one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+
+
+<div id='bmone2t-2204.1.1.50' style='display:none'></div>
+
 <br>
 <center>
 <table border="0" width="60%" cellpadding="0" cellspacing="0">
@@ -543,19 +849,6 @@
 <!-- /Yandex.Metrika counter -->
 </div>
 </div>
-<!-- BBelements one2many Position: Avto.ru(2204) / V2Expand(1) / V2expand(1) / V2Media RU 1x1(50) -->
-<!-- HowTo: Place this code into the html page there the ad should appear. -->
-<div id='bmone2n-2204.1.1.50'>
-
-</div>
-<!-- BBelements one2many code -->
-<!-- HowTo: All the ad codes must be above this code! -->
-<!-- HowTo: It is good idea to place this code just below the last ad code. -->
-
-
-<div id='bmone2t-2204.1.1.50' style='display:none'></div>
-
-
 </body>
 </html>
 

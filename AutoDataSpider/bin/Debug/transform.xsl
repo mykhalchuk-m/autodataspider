@@ -15,11 +15,11 @@
     </old.id>
 
     <xsl:value-of select="cf:ParseAvtoData()" disable-output-escaping="yes"/>
-    
+<!--
     <price>
       <xsl:value-of select="//xhtml:span[@class='price_foCar']"/>
     </price>
-
+-->
     <basic.information>
       <xsl:variable name="basic" select="//xhtml:div[@id='itemPhotoD']/xhtml:table/xhtml:tr/xhtml:td/xhtml:table/xhtml:tr"/>
       <xsl:for-each select="$basic">
