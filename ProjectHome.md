@@ -1,0 +1,1 @@
+Transform data from sites into xml-structure files, parse them and store parsed data into database
